@@ -3,7 +3,7 @@ baseurl: ''
 lang: id-ID
 timezone: Asia/Jakarta
 title: Nesaci 
-tagline: Curhat Pribadi Nesaci
+tagline: Coretan Pribadi Penulis
 description: >-                        # used by seo meta and the atom feed
   Serba Serbi Makalah Tentang Pendidikan
 url: 'https://nesaci.com'
@@ -12,7 +12,7 @@ github:
 twitter:
   username: tasikisme 
 social:
-  name: Tasikisme
+  name: Nesaci
   links:
   - https://nesaci.com 
 
