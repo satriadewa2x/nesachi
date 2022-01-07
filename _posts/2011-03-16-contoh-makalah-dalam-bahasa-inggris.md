@@ -4,7 +4,7 @@ title: Contoh Makalah dalam Bahasa Inggris
 date: 2011-03-16T08:21:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=612
+guid: https://nesaci.com/?p=612
 permalink: /contoh-makalah-dalam-bahasa-inggris/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Download Game Terbaik Untuk iPhone
 date: 2010-09-15T11:43:40+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=243
+guid: https://nesaci.com/?p=243
 permalink: /download-game-terbaik-untuk-iphone/
 categories:
   - Catatan Gadget

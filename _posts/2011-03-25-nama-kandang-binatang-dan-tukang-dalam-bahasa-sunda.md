@@ -4,7 +4,7 @@ title: Nama Kandang Binatang dan Tukang dalam Bahasa Sunda
 date: 2011-03-25T12:22:42+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1266
+guid: https://nesaci.com/?p=1266
 permalink: /nama-kandang-binatang-dan-tukang-dalam-bahasa-sunda/
 categories:
   - Makalah

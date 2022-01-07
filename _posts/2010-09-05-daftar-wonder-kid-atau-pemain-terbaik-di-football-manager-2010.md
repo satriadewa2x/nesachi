@@ -4,7 +4,7 @@ title: Daftar Wonder Kid atau Pemain Terbaik di FootBall Manager 2010
 date: 2010-09-05T12:00:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=226
+guid: https://nesaci.com/?p=226
 permalink: /daftar-wonder-kid-atau-pemain-terbaik-di-football-manager-2010/
 categories:
   - Tips dan Trick

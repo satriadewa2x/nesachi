@@ -4,7 +4,7 @@ title: Cara Mudah Menghemat Baterai Handphone Android
 date: 2010-12-17T07:38:42+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=444
+guid: https://nesaci.com/?p=444
 permalink: /cara-mudah-menghemat-baterai-handphone-android/
 categories:
   - Android

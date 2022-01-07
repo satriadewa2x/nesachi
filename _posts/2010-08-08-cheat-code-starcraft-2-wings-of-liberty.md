@@ -4,7 +4,7 @@ title: 'Cheat Code Starcraft 2: Wings of Liberty'
 date: 2010-08-08T16:54:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=185
+guid: https://nesaci.com/?p=185
 permalink: /cheat-code-starcraft-2-wings-of-liberty/
 categories:
   - Tips dan Trick

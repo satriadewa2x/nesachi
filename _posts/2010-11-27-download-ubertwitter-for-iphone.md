@@ -4,7 +4,7 @@ title: Download UberTwitter for iPhone
 date: 2010-11-27T08:05:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=394
+guid: https://nesaci.com/?p=394
 permalink: /download-ubertwitter-for-iphone/
 categories:
   - iPhone

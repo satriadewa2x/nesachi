@@ -4,7 +4,7 @@ title: Daftar Istilah Kesehatan
 date: 2011-02-20T20:57:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1300
+guid: https://nesaci.com/?p=1300
 permalink: /daftar-istilah-kesehatan/
 categories:
   - Catatan Harian

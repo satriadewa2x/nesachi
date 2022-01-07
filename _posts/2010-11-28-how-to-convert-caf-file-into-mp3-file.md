@@ -4,7 +4,7 @@ title: How To Convert .CAF file into .MP3 File
 date: 2010-11-28T10:04:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=396
+guid: https://nesaci.com/?p=396
 permalink: /how-to-convert-caf-file-into-mp3-file/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Melihat dan Membaca File PDF di Blackberry Playbook dengan Adobe Reader
 date: 2011-08-07T05:43:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=721
+guid: https://nesaci.com/?p=721
 permalink: /melihat-dan-membaca-file-pdf-di-blackberry-playbook-dengan-adobe-reader/
 categories:
   - Blackberry

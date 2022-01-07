@@ -4,7 +4,7 @@ title: Paket Opera Mini Telkomsel
 date: 2010-04-12T11:11:19+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=69
+guid: https://nesaci.com/?p=69
 permalink: /paket-opera-mini-telkomsel/
 categories:
   - Catatan Harian

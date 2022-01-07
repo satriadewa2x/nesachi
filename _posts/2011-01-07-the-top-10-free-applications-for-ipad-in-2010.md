@@ -4,7 +4,7 @@ title: The Top 10 Free Applications for iPad in 2010
 date: 2011-01-07T10:23:17+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=484
+guid: https://nesaci.com/?p=484
 permalink: /the-top-10-free-applications-for-ipad-in-2010/
 categories:
   - iPad

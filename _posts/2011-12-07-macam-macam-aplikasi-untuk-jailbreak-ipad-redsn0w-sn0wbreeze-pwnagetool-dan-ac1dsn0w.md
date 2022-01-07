@@ -4,7 +4,7 @@ title: 'Macam-Macam Aplikasi untuk Jailbreak iPad: Redsn0w, Sn0wbreeze, PwnageTo
 date: 2011-12-07T12:42:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=790
+guid: https://nesaci.com/?p=790
 permalink: /macam-macam-aplikasi-untuk-jailbreak-ipad-redsn0w-sn0wbreeze-pwnagetool-dan-ac1dsn0w/
 categories:
   - Catatan Gadget
@@ -32,5 +32,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  [ <a href="http://www.putrifauziah.com/2011/11/ac1dsn0w-redsn0w-sn0wbreeze-atau.html" rel="nofollow"><strong>sumber</strong> </a>]
+  [ <a href="https://www.putrifauziah.com/2011/11/ac1dsn0w-redsn0w-sn0wbreeze-atau.html" rel="nofollow"><strong>sumber</strong> </a>]
 </p>

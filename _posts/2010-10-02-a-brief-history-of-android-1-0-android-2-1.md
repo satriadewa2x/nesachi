@@ -4,7 +4,7 @@ title: 'A Brief history of Android 1.0 &#8211;  Android 2.1'
 date: 2010-10-02T18:44:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=276
+guid: https://nesaci.com/?p=276
 permalink: /a-brief-history-of-android-1-0-android-2-1/
 categories:
   - Android

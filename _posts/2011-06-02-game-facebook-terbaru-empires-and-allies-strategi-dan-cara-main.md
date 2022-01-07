@@ -4,7 +4,7 @@ title: 'Game Facebook Terbaru : Empires and Allies – Strategi dan Cara Main'
 date: 2011-06-02T08:37:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=668
+guid: https://nesaci.com/?p=668
 permalink: /game-facebook-terbaru-empires-and-allies-strategi-dan-cara-main/
 categories:
   - Facebook

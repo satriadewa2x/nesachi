@@ -4,7 +4,7 @@ title: 'New App: Photo Processor'
 date: 2010-10-07T07:52:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=299
+guid: https://nesaci.com/?p=299
 permalink: /new-app-photo-processor/
 categories:
   - iPhone

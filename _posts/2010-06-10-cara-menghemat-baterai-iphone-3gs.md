@@ -4,7 +4,7 @@ title: Cara Menghemat Baterai iPhone 3GS
 date: 2010-06-10T00:11:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=149
+guid: https://nesaci.com/?p=149
 permalink: /cara-menghemat-baterai-iphone-3gs/
 categories:
   - Tips dan Trick

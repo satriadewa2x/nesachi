@@ -4,7 +4,7 @@ title: Menyembunyikan News Ticker Status Update di Facebook
 date: 2011-09-30T11:59:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=754
+guid: https://nesaci.com/?p=754
 permalink: /menyembunyikan-news-ticker-status-update-di-facebook/
 categories:
   - Facebook
@@ -22,5 +22,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Jika Anda menggunakan Browser Google Chrome, maka Anda bisa menggunakan sebuah <strong>Ekstensi untuk Google Chrome</strong>. Namun jika Anda menggunakan browser Firefox Anda bisa menggunakan <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" rel="nofollow"><strong>GreeseMonkey</strong> </a>dan tentunya jangan lupa Install <a href="http://userscripts.org/scripts/show/113583" rel="nofollow"><strong>Userscript for Firefox</strong></a> untuk menghilangkan atau Disable News Ticker di Facebook.
+  Jika Anda menggunakan Browser Google Chrome, maka Anda bisa menggunakan sebuah <strong>Ekstensi untuk Google Chrome</strong>. Namun jika Anda menggunakan browser Firefox Anda bisa menggunakan <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" rel="nofollow"><strong>GreeseMonkey</strong> </a>dan tentunya jangan lupa Install <a href="https://userscripts.org/scripts/show/113583" rel="nofollow"><strong>Userscript for Firefox</strong></a> untuk menghilangkan atau Disable News Ticker di Facebook.
 </p>

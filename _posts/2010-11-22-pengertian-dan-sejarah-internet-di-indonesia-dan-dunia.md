@@ -4,7 +4,7 @@ title: Pengertian dan Sejarah Internet di Indonesia dan Dunia
 date: 2010-11-22T10:19:17+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=381
+guid: https://nesaci.com/?p=381
 permalink: /pengertian-dan-sejarah-internet-di-indonesia-dan-dunia/
 categories:
   - Catatan Harian

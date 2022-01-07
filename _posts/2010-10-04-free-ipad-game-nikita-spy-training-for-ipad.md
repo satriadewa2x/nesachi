@@ -4,7 +4,7 @@ title: 'Free iPad Game: Nikita Spy Training for iPad'
 date: 2010-10-04T07:45:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=283
+guid: https://nesaci.com/?p=283
 permalink: /free-ipad-game-nikita-spy-training-for-ipad/
 categories:
   - iPad

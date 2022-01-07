@@ -4,7 +4,7 @@ title: Contoh Deskripsi dan Refleksi PTK SD
 date: 2015-04-04T21:04:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1086
+guid: https://nesaci.com/?p=1086
 permalink: /contoh-deskripsi-dan-refleksi-ptk-sd/
 categories:
   - Makalah

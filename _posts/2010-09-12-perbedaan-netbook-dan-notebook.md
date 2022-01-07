@@ -4,7 +4,7 @@ title: Perbedaan Netbook dan Notebook?
 date: 2010-09-12T13:15:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=236
+guid: https://nesaci.com/?p=236
 permalink: /perbedaan-netbook-dan-notebook/
 categories:
   - Tips dan Trick

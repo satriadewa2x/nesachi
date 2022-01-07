@@ -4,7 +4,7 @@ title: Mengantisifasi Tawuran Antar Pelajar
 date: 2012-10-01T09:23:54+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=919
+guid: https://nesaci.com/?p=919
 permalink: /mengantisifasi-tawuran-antar-pelajar/
 categories:
   - Makalah

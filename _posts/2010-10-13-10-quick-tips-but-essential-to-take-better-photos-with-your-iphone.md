@@ -4,7 +4,7 @@ title: 10 Quick Tips But Essential To Take Better Photos With Your iPhone
 date: 2010-10-13T07:06:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=321
+guid: https://nesaci.com/?p=321
 permalink: /10-quick-tips-but-essential-to-take-better-photos-with-your-iphone/
 categories:
   - iPhone

@@ -4,7 +4,7 @@ title: WordPress Application for Windows Phone 7
 date: 2010-12-18T07:46:38+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=446
+guid: https://nesaci.com/?p=446
 permalink: /wordpress-application-for-windows-phone-7/
 categories:
   - Windows Phone 7

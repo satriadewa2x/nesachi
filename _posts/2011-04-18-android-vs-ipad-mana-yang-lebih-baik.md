@@ -4,7 +4,7 @@ title: Android vs iPad? Mana yang lebih baik?
 date: 2011-04-18T14:02:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=638
+guid: https://nesaci.com/?p=638
 permalink: /android-vs-ipad-mana-yang-lebih-baik/
 categories:
   - Android
@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Sedangkan bila mendengar kata iPad, tentu ingatan kita tertuju kepada Tablet yang direlease oleh Apple! Selengkapnya tentang iPad bisa dibaca di <a title="Apakah Fungsi iPad itu?" href="http://nesaci.com/apakah-ipad-itu-apa-kelebihan-dan-kekurangan-ipad/"><strong>Apakah iPad itu</strong></a>?
+  Sedangkan bila mendengar kata iPad, tentu ingatan kita tertuju kepada Tablet yang direlease oleh Apple! Selengkapnya tentang iPad bisa dibaca di <a title="Apakah Fungsi iPad itu?" href="https://nesaci.com/apakah-ipad-itu-apa-kelebihan-dan-kekurangan-ipad/"><strong>Apakah iPad itu</strong></a>?
 </p>
 
 <p style="text-align: justify;">

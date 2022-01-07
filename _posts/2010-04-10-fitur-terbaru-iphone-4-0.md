@@ -4,7 +4,7 @@ title: Fitur Terbaru iPhone 4.0
 date: 2010-04-10T07:42:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=63
+guid: https://nesaci.com/?p=63
 permalink: /fitur-terbaru-iphone-4-0/
 categories:
   - Catatan Gadget

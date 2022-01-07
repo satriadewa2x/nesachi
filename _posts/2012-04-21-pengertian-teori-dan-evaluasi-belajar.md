@@ -4,7 +4,7 @@ title: Pengertian, Teori dan Evaluasi Belajar
 date: 2012-04-21T10:33:00+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=837
+guid: https://nesaci.com/?p=837
 permalink: /pengertian-teori-dan-evaluasi-belajar/
 categories:
   - Catatan Harian

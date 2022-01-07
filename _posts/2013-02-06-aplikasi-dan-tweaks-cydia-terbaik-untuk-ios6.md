@@ -4,7 +4,7 @@ title: Aplikasi dan Tweaks Cydia Terbaik untuk iOS6
 date: 2013-02-06T10:04:27+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=939
+guid: https://nesaci.com/?p=939
 permalink: /aplikasi-dan-tweaks-cydia-terbaik-untuk-ios6/
 categories:
   - iPad
@@ -19,7 +19,7 @@ tags:
   Evasi0n merupakan sebuah tool untuk menjailbreak iOS6 di iPhone 3GS, iPhone 4, iPhone 4S, iPhone 5, iPad 2, iPad 3, iPad 4, iPad Mini, iPod touch 4, iPod touch 5, Apple TV 2. Nah, setelah kita menjailbreak iPhone 5 iOS6 selanjutnya yang sering membuat kita bingung adalah tweak dan Cydia Apps apakah sih yang terbaik untuk di install? Nah, berikut ini adalah pilihan aplikasi cydia terbaik untuk iPhone, iPad maupun iPod Touch.
 </p>
 
-<img loading="lazy" class="aligncenter" alt="" src="http://1.bp.blogspot.com/-Si77rsKCP5k/URHGtk_U7pI/AAAAAAAAB8Q/jz1FXm0FBOw/s1600/cydia_apps_iphone5.jpg" width="400" height="410" /> 
+<img loading="lazy" class="aligncenter" alt="" src="https://1.bp.blogspot.com/-Si77rsKCP5k/URHGtk_U7pI/AAAAAAAAB8Q/jz1FXm0FBOw/s1600/cydia_apps_iphone5.jpg" width="400" height="410" /> 
 
 <p style="text-align: justify;">
   <strong>Bytafont</strong> adalah bagi mereka yang bosan dengan font di iPhone, memungkinkan kita untuk mengubah font. Bytafont merupakan aplikasi untuk merubah huruf atau font di iPhone.

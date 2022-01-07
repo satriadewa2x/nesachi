@@ -4,7 +4,7 @@ title: Perbedaan iPhone 4 dan iPhone 3GS
 date: 2010-06-14T13:47:48+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=154
+guid: https://nesaci.com/?p=154
 permalink: /perbedaan-iphone-4-dan-iphone-3gs/
 categories:
   - Catatan Gadget

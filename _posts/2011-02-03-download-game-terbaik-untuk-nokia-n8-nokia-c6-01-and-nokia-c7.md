@@ -4,7 +4,7 @@ title: Download Game Terbaik untuk Nokia N8, Nokia C6-01 and Nokia C7
 date: 2011-02-03T07:44:45+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=544
+guid: https://nesaci.com/?p=544
 permalink: /download-game-terbaik-untuk-nokia-n8-nokia-c6-01-and-nokia-c7/
 categories:
   - Game

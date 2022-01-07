@@ -4,7 +4,7 @@ title: 'Missed Call for Blackberry: To Prevent Missed Calls on Blackberry'
 date: 2010-10-01T07:19:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=270
+guid: https://nesaci.com/?p=270
 permalink: /missed-call-for-blackberry-to-prevent-missed-calls-on-blackberry/
 categories:
   - Blackberry

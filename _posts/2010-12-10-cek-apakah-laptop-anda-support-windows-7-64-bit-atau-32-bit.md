@@ -4,7 +4,7 @@ title: Cek Apakah Laptop Anda Support Windows 7 64-bit atau 32-bit
 date: 2010-12-10T07:23:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=426
+guid: https://nesaci.com/?p=426
 permalink: /cek-apakah-laptop-anda-support-windows-7-64-bit-atau-32-bit/
 categories:
   - Catatan Harian
@@ -26,5 +26,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download 64-bit Checker" rel="nofollow" href="http://www.igorware.com/64bit-checker" target="_blank"><strong>Download 64-bit Checker!</strong></a>
+  <a title="Download 64-bit Checker" rel="nofollow" href="https://www.igorware.com/64bit-checker" target="_blank"><strong>Download 64-bit Checker!</strong></a>
 </p>

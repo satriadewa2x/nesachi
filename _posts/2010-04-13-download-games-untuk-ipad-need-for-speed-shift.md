@@ -4,7 +4,7 @@ title: 'Download Games untuk iPad &#8211; Need For Speed Shift'
 date: 2010-04-13T07:35:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=72
+guid: https://nesaci.com/?p=72
 permalink: /download-games-untuk-ipad-need-for-speed-shift/
 categories:
   - Catatan Harian

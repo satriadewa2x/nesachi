@@ -4,7 +4,7 @@ title: iPad 2 vs Motorola Xoom
 date: 2011-05-10T10:29:04+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=653
+guid: https://nesaci.com/?p=653
 permalink: /ipad-2-vs-motorola-xoom/
 categories:
   - Android

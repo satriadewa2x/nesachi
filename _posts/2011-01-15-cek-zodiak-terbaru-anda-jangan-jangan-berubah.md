@@ -4,7 +4,7 @@ title: Cek Zodiak Terbaru Anda, Jangan-Jangan Berubah?
 date: 2011-01-15T11:52:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=510
+guid: https://nesaci.com/?p=510
 permalink: /cek-zodiak-terbaru-anda-jangan-jangan-berubah/
 categories:
   - Catatan Harian

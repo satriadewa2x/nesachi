@@ -4,7 +4,7 @@ title: Merubah Warna Huruf Status Facebook
 date: 2012-02-07T18:41:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=804
+guid: https://nesaci.com/?p=804
 permalink: /merubah-warna-huruf-status-facebook/
 categories:
   - Facebook

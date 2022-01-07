@@ -4,7 +4,7 @@ title: Easy Way to Edit Photo on iPad with ColorSplash
 date: 2010-10-16T07:25:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=335
+guid: https://nesaci.com/?p=335
 permalink: /easy-way-to-edit-photo-on-ipad-with-colorsplash/
 categories:
   - iPad

@@ -4,7 +4,7 @@ title: Cara Mencegah Yahoo! Messenger Otomatis Muncul Saat Komputer/Laptop Dinya
 date: 2010-05-16T10:22:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=125
+guid: https://nesaci.com/?p=125
 permalink: /cara-mencegah-yahoo-messenger-otomatis-muncul-saat-komputerlaptop-dinyalakan/
 categories:
   - Tips dan Trick

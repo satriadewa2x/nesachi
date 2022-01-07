@@ -4,7 +4,7 @@ title: Cara Unblock Teman di Facebook
 date: 2010-03-13T14:00:01+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=34
+guid: https://nesaci.com/?p=34
 permalink: /cara-unblock-teman-di-facebook/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Use your iPhone as a Webcam with WebCamera
 date: 2010-12-13T07:57:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=432
+guid: https://nesaci.com/?p=432
 permalink: /use-your-iphone-as-a-webcam-with-webcamera/
 categories:
   - iPhone

@@ -4,7 +4,7 @@ title: Diner Dash for Facebook
 date: 2011-01-27T07:30:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=533
+guid: https://nesaci.com/?p=533
 permalink: /diner-dash-for-facebook/
 categories:
   - Catatan Harian

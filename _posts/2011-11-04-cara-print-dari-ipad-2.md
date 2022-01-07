@@ -4,7 +4,7 @@ title: Cara Print dari iPad 2
 date: 2011-11-04T09:06:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=772
+guid: https://nesaci.com/?p=772
 permalink: /cara-print-dari-ipad-2/
 categories:
   - iPad

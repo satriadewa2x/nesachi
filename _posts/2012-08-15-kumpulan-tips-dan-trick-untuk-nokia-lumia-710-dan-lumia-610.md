@@ -4,7 +4,7 @@ title: Kumpulan Tips dan Trick untuk Nokia Lumia 710 dan Lumia 610
 date: 2012-08-15T10:12:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=877
+guid: https://nesaci.com/?p=877
 permalink: /kumpulan-tips-dan-trick-untuk-nokia-lumia-710-dan-lumia-610/
 categories:
   - Nokia

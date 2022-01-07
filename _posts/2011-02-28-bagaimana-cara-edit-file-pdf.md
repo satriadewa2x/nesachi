@@ -4,7 +4,7 @@ title: Bagaimana Cara Edit File PDF?
 date: 2011-02-28T07:49:50+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=582
+guid: https://nesaci.com/?p=582
 permalink: /bagaimana-cara-edit-file-pdf/
 categories:
   - Catatan Harian
@@ -43,5 +43,5 @@ tags:
 </li>
 
 <p style="text-align: justify;">
-  Anda bisa Download Foxit PDF Editor di <strong>Website Resmi Foxit Sofware</strong> &#8211; http://www.foxitsoftware.com/pdf/editor/
+  Anda bisa Download Foxit PDF Editor di <strong>Website Resmi Foxit Sofware</strong> &#8211; https://www.foxitsoftware.com/pdf/editor/
 </p>

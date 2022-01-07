@@ -4,7 +4,7 @@ title: Makalah Tentang Pengertian Negara
 date: 2012-04-22T09:19:20+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=840
+guid: https://nesaci.com/?p=840
 permalink: /makalah-tentang-pengertian-negara/
 categories:
   - Catatan Harian

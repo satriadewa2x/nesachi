@@ -4,7 +4,7 @@ title: Cara Memberi Password Pada File
 date: 2010-04-06T00:01:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=51
+guid: https://nesaci.com/?p=51
 permalink: /cara-memberi-password-pada-file/
 categories:
   - Tips dan Trick
@@ -18,5 +18,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download dan Install Protect Me!" rel="nofollow" href="http://sites.google.com/site/distantx/ProtectMe%212010v1.0.1.1.zip" target="_blank"><strong>Download dan Install Protect Me!</strong></a>
+  <a title="Download dan Install Protect Me!" rel="nofollow" href="https://sites.google.com/site/distantx/ProtectMe%212010v1.0.1.1.zip" target="_blank"><strong>Download dan Install Protect Me!</strong></a>
 </p>

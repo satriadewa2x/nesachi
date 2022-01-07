@@ -4,7 +4,7 @@ title: Contoh Kesimpulan Dan Saran PTK SD Kelas 1
 date: 2015-04-12T10:14:27+00:00
 author: Nesaci
 layout: post
-guid: http://119.81.19.203/~nesacico/?p=1093
+guid: https://119.81.19.203/~nesacico/?p=1093
 permalink: /contoh-kesimpulan-dan-saran-ptk-sd-kelas-1/
 categories:
   - Makalah

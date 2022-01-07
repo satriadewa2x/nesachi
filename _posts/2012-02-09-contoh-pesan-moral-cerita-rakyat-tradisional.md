@@ -4,7 +4,7 @@ title: Contoh Pesan Moral Cerita Rakyat Tradisional
 date: 2012-02-09T12:10:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=807
+guid: https://nesaci.com/?p=807
 permalink: /contoh-pesan-moral-cerita-rakyat-tradisional/
 categories:
   - Catatan Harian

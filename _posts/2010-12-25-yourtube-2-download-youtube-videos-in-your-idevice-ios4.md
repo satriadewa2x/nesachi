@@ -4,7 +4,7 @@ title: 'YourTube 2: Download YouTube Videos in your iDevice iOS4'
 date: 2010-12-25T07:53:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=464
+guid: https://nesaci.com/?p=464
 permalink: /yourtube-2-download-youtube-videos-in-your-idevice-ios4/
 categories:
   - iPad

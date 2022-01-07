@@ -4,7 +4,7 @@ title: Sejarah Pendidikan di Indonesia
 date: 2011-08-20T11:26:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=731
+guid: https://nesaci.com/?p=731
 permalink: /sejarah-pendidikan-di-indonesia/
 categories:
   - Catatan Harian

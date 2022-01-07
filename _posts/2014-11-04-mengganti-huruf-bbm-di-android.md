@@ -4,7 +4,7 @@ title: Mengganti Huruf BBM di Android
 date: 2014-11-04T09:48:17+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1037
+guid: https://nesaci.com/?p=1037
 permalink: /mengganti-huruf-bbm-di-android/
 categories:
   - Android
@@ -20,7 +20,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-b8wJGX0ypB0/VFg9I3shFSI/AAAAAAAADlQ/85B_8w9qPRw/s1600/cara_ganti_huruf_BBM_1.png" alt="Cara Ganti Font BBM Android" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-b8wJGX0ypB0/VFg9I3shFSI/AAAAAAAADlQ/85B_8w9qPRw/s1600/cara_ganti_huruf_BBM_1.png" alt="Cara Ganti Font BBM Android" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">
@@ -28,7 +28,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://2.bp.blogspot.com/-El2KRSLgRa0/VFg9E9AcCXI/AAAAAAAADlA/XGNsDo2tJcY/s1600/Cara_Ganti_Huruf_BBM_2.png" alt="Cara Ganti huruf BBM Android" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-El2KRSLgRa0/VFg9E9AcCXI/AAAAAAAADlA/XGNsDo2tJcY/s1600/Cara_Ganti_Huruf_BBM_2.png" alt="Cara Ganti huruf BBM Android" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">
@@ -36,7 +36,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-kK3rqB3rWUo/VFg9HGycNXI/AAAAAAAADlI/mumUnjwWfEQ/s1600/Cara_Ganti_Huruf_BBM_3.png" alt="Rubah Huruf BBM Android" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-kK3rqB3rWUo/VFg9HGycNXI/AAAAAAAADlI/mumUnjwWfEQ/s1600/Cara_Ganti_Huruf_BBM_3.png" alt="Rubah Huruf BBM Android" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">

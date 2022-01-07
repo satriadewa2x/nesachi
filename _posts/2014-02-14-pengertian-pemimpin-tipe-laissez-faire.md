@@ -4,7 +4,7 @@ title: Pengertian Pemimpin Tipe Laissez-Faire
 date: 2014-02-14T12:30:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1274
+guid: https://nesaci.com/?p=1274
 permalink: /pengertian-pemimpin-tipe-laissez-faire/
 categories:
   - Makalah

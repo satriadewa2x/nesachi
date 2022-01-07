@@ -4,7 +4,7 @@ title: Pengertian dan Prinsip Dasar Retorika
 date: 2011-03-17T07:43:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=615
+guid: https://nesaci.com/?p=615
 permalink: /pengertian-dan-prinsip-dasar-retorika/
 categories:
   - Catatan Harian

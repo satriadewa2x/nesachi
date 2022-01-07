@@ -4,7 +4,7 @@ title: Pengertian Narkotika dan Psikotropika
 date: 2010-11-22T15:31:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1276
+guid: https://nesaci.com/?p=1276
 permalink: /pengertian-narkotika-dan-psikotropika/
 categories:
   - Makalah

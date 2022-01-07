@@ -4,7 +4,7 @@ title: Bagaimana Cara Menambah Kontak BBM dengan Cepat
 date: 2014-01-21T11:04:17+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=994
+guid: https://nesaci.com/?p=994
 permalink: /bagaimana-cara-menambah-kontak-bbm-dengan-cepat/
 categories:
   - Android
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-CmtJG-LTpQ0/Ut3wYvObswI/AAAAAAAACkg/mAIQSJjJeEM/s1600/BBMFriend_Apps.png" alt="BBMFriend for Android" width="200" height="200" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-CmtJG-LTpQ0/Ut3wYvObswI/AAAAAAAACkg/mAIQSJjJeEM/s1600/BBMFriend_Apps.png" alt="BBMFriend for Android" width="200" height="200" />
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img loading="lazy" class="aligncenter" src="http://3.bp.blogspot.com/-2GmAW_7SHwo/Ut3wdkqaKzI/AAAAAAAACko/s1GCs7_FUdw/s1600/bbmfriend1.png" alt="Aplikasi Tambah Kontak BBM" width="480" height="854" />
+  <img loading="lazy" class="aligncenter" src="https://3.bp.blogspot.com/-2GmAW_7SHwo/Ut3wdkqaKzI/AAAAAAAACko/s1GCs7_FUdw/s1600/bbmfriend1.png" alt="Aplikasi Tambah Kontak BBM" width="480" height="854" />
 </p>
 
 <p style="text-align: justify;">

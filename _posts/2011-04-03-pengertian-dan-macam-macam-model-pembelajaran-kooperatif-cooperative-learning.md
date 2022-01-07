@@ -4,7 +4,7 @@ title: Pengertian dan Macam-Macam Model Pembelajaran Kooperatif (Cooperative Lea
 date: 2011-04-03T09:56:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=630
+guid: https://nesaci.com/?p=630
 permalink: /pengertian-dan-macam-macam-model-pembelajaran-kooperatif-cooperative-learning/
 categories:
   - Catatan Harian

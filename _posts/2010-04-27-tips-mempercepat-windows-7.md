@@ -4,7 +4,7 @@ title: Tips Mempercepat Windows 7
 date: 2010-04-27T10:14:19+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=105
+guid: https://nesaci.com/?p=105
 permalink: /tips-mempercepat-windows-7/
 categories:
   - Tips dan Trick

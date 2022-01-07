@@ -4,7 +4,7 @@ title: Blackberry Bold 97oo Warna Putih kini Tersedia
 date: 2010-04-15T07:39:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=81
+guid: https://nesaci.com/?p=81
 permalink: /blackberry-bold-97oo-warna-putih-kini-tersedia/
 categories:
   - Catatan Gadget

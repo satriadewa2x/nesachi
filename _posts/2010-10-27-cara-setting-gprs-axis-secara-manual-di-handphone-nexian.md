@@ -4,7 +4,7 @@ title: Cara Setting GPRS Axis Secara Manual di Handphone Nexian
 date: 2010-10-27T12:47:44+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=356
+guid: https://nesaci.com/?p=356
 permalink: /cara-setting-gprs-axis-secara-manual-di-handphone-nexian/
 categories:
   - Tips dan Trick
@@ -38,7 +38,7 @@ tags:
   * Authentication : Normal
   * Gateway/Proxy IP Address : 10.8.3.8
   * Gateway/Proxy Port : 9201 atau 8080
-  * Homepage : http://wap.axisworld.co.id
+  * Homepage : https://wap.axisworld.co.id
   * Connection Security : Off
   * Session Mode : Permanent
 
@@ -53,7 +53,7 @@ tags:
   * Prompt Password: No
   * Password: proxl
   * Authentication: Normal
-  * Homepage: http://wap.lifeinhand.com
+  * Homepage: https://wap.lifeinhand.com
   * Connection Security: Off
   * Session Mode: Permanent
   * IP Address: Automatic
@@ -65,7 +65,7 @@ tags:
 </p>
 
   * Settings’ Name: 3-GPRS
-  * Homepage : http://wap.three.co.id/
+  * Homepage : https://wap.three.co.id/
   * Proxies : Enable
   * Proxy address : 10.4.0.10
   * Port : 3128
@@ -85,7 +85,7 @@ tags:
   * Password : wap123
   * Authentication : Normal
   * Gateway IP address : 10.1.89.130
-  * Homepage : http://wap.telkomsel.com
+  * Homepage : https://wap.telkomsel.com
   * Data Bearer : GPRS
   * Proxy port number : 9201 atau 8000
 
@@ -94,7 +94,7 @@ tags:
 </p>
 
   * Profile Name : INDOSATGPRS
-  * Homepage URL : http://wap.klub-mentari.com
+  * Homepage URL : https://wap.klub-mentari.com
   * IP Address : 10.19.19.19
   * Bearer : GPRS
   * User Name : indosat

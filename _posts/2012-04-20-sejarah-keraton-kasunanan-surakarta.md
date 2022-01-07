@@ -4,7 +4,7 @@ title: Sejarah Keraton Kasunanan Surakarta
 date: 2012-04-20T10:50:49+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=835
+guid: https://nesaci.com/?p=835
 permalink: /sejarah-keraton-kasunanan-surakarta/
 categories:
   - Catatan Harian

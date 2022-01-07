@@ -4,7 +4,7 @@ title: Perjuangan Kembali Menjadi Negara Kesatuan Republik Indonesia
 date: 2011-02-18T14:38:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1282
+guid: https://nesaci.com/?p=1282
 permalink: /perjuangan-kembali-menjadi-negara-kesatuan-republik-indonesia/
 categories:
   - Makalah

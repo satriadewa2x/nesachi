@@ -4,7 +4,7 @@ title: Metode Diskusi dalam Proses Belajar di Sekolah
 date: 2011-01-18T08:08:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=519
+guid: https://nesaci.com/?p=519
 permalink: /metode-diskusi-dalam-proses-belajar-di-sekolah/
 categories:
   - Catatan Harian

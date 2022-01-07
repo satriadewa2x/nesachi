@@ -4,7 +4,7 @@ title: Cara Mengatasi Masalah Bluetooth di Windows 7
 date: 2010-08-18T14:30:58+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=205
+guid: https://nesaci.com/?p=205
 permalink: /cara-mengatasi-masalah-bluetooth-di-windows-7/
 categories:
   - Tips dan Trick

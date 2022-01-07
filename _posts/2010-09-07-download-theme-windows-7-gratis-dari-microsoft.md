@@ -4,7 +4,7 @@ title: Download Theme Windows 7 Gratis dari Microsoft
 date: 2010-09-07T23:47:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=232
+guid: https://nesaci.com/?p=232
 permalink: /download-theme-windows-7-gratis-dari-microsoft/
 categories:
   - Tips dan Trick
@@ -23,5 +23,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Sedangkan untuk mendapatkan/download theme terbaru dari Windows 7 kamu bisa mengunjungi <strong>http://windows.microsoft.com/en-US/windows/downloads/personalize/themes</strong> pilih theme yang sesuai dengan kehendak kamu, lalu download. Setelah selesai di Download, untuk mulai menggunakan theme tersebut, cukup double klik theme hasil download tadi, secara otomatis akan aktif dan mengganti theme yang sedang dipakai. Mudah bukan?
+  Sedangkan untuk mendapatkan/download theme terbaru dari Windows 7 kamu bisa mengunjungi <strong>https://windows.microsoft.com/en-US/windows/downloads/personalize/themes</strong> pilih theme yang sesuai dengan kehendak kamu, lalu download. Setelah selesai di Download, untuk mulai menggunakan theme tersebut, cukup double klik theme hasil download tadi, secara otomatis akan aktif dan mengganti theme yang sedang dipakai. Mudah bukan?
 </p>

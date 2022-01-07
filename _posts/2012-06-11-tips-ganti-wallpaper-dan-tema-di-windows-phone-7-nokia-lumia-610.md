@@ -4,7 +4,7 @@ title: Tips Ganti Wallpaper dan Tema di Windows Phone 7 (Nokia Lumia 610)
 date: 2012-06-11T16:06:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=852
+guid: https://nesaci.com/?p=852
 permalink: /tips-ganti-wallpaper-dan-tema-di-windows-phone-7-nokia-lumia-610/
 categories:
   - Nokia

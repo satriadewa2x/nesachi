@@ -4,7 +4,7 @@ title: Teori dan Pengertian Kependudukan
 date: 2011-02-23T08:00:04+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=574
+guid: https://nesaci.com/?p=574
 permalink: /teori-dan-pengertian-kependudukan/
 categories:
   - Catatan Harian

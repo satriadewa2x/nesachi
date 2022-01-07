@@ -4,7 +4,7 @@ title: Blackberry Messenger Social Platform Review
 date: 2010-09-29T18:18:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=263
+guid: https://nesaci.com/?p=263
 permalink: /blackberry-messenger-social-platform-review/
 categories:
   - Blackberry

@@ -4,7 +4,7 @@ title: Aplikasi Update Status BBM Lucu dan Romantis
 date: 2014-05-17T09:51:53+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1014
+guid: https://nesaci.com/?p=1014
 permalink: /aplikasi-update-status-bbm-lucu-dan-romantis/
 categories:
   - Android
@@ -24,11 +24,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://akucintakaudandia.files.wordpress.com/2014/05/updatestatuskeren_4.png" alt="" width="385" height="690" />
+  <img loading="lazy" class="aligncenter" src="https://akucintakaudandia.files.wordpress.com/2014/05/updatestatuskeren_4.png" alt="" width="385" height="690" />
 </p>
 
 <p style="text-align: justify;">
   <!--more-->Bila Anda pengguna ponsel Android, aplikasi seperti 
   
-  <a href="http://tasikisme.net" rel="nofollow"><strong>Update Status Keren</strong></a> akan sangat membantu Anda untuk menemukan kalimat humor dan lucu untuk dijadikan status di Facebook atau disaat Anda akan menulis twitt di Twitter. Aplikasi ini memiliki ratusan kalimat galau, nyindir dan lucu yang siap dipakai dan dicopy untuk dijadikan status fb. Anda bisa download aplikasi Update Status Keren di Google Play Store langsung dari Ponsel Android, jangan khawatir gratis kok 😀
+  <a href="https://tasikisme.net" rel="nofollow"><strong>Update Status Keren</strong></a> akan sangat membantu Anda untuk menemukan kalimat humor dan lucu untuk dijadikan status di Facebook atau disaat Anda akan menulis twitt di Twitter. Aplikasi ini memiliki ratusan kalimat galau, nyindir dan lucu yang siap dipakai dan dicopy untuk dijadikan status fb. Anda bisa download aplikasi Update Status Keren di Google Play Store langsung dari Ponsel Android, jangan khawatir gratis kok 😀
 </p>

@@ -4,7 +4,7 @@ title: 'Specs Requirements for Starcraft 2: Wings of Liberty'
 date: 2010-08-08T17:03:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=188
+guid: https://nesaci.com/?p=188
 permalink: /specs-requirements-for-starcraft-2-wings-of-liberty/
 categories:
   - Tips dan Trick

@@ -4,7 +4,7 @@ title: Bermain Game Xbox 360 di Laptop – Netbook
 date: 2011-10-03T07:54:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=760
+guid: https://nesaci.com/?p=760
 permalink: /bermain-game-xbox-360-di-laptop-netbook/
 categories:
   - Laptop

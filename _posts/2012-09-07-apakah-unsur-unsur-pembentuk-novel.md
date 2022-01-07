@@ -4,7 +4,7 @@ title: Apakah Unsur-unsur Pembentuk Novel?
 date: 2012-09-07T07:39:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=901
+guid: https://nesaci.com/?p=901
 permalink: /apakah-unsur-unsur-pembentuk-novel/
 categories:
   - Catatan Harian

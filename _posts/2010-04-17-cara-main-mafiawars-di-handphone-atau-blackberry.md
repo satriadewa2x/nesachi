@@ -4,7 +4,7 @@ title: Cara Main MafiaWars di Handphone atau Blackberry
 date: 2010-04-17T12:08:09+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=83
+guid: https://nesaci.com/?p=83
 permalink: /cara-main-mafiawars-di-handphone-atau-blackberry/
 categories:
   - Tips dan Trick
@@ -23,5 +23,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download Bolt Browser untuk Handphone" rel="nofollow" href="http://boltbrowser.com/download.html" target="_blank"><strong>Download Bolt untuk Handphone </strong></a>
+  <a title="Download Bolt Browser untuk Handphone" rel="nofollow" href="https://boltbrowser.com/download.html" target="_blank"><strong>Download Bolt untuk Handphone </strong></a>
 </p>

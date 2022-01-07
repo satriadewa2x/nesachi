@@ -4,7 +4,7 @@ title: Cheat dan Cara Mendapatkan Golden Eggs di Angry Birds
 date: 2010-10-26T13:57:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=353
+guid: https://nesaci.com/?p=353
 permalink: /cheat-dan-cara-mendapatkan-golden-eggs-di-angry-birds/
 categories:
   - Android
@@ -38,4 +38,4 @@ tags:
   * 3 Stars Egg #1 – dapatkan 3 bintang di semua Level pada World 1 (Poached Eggs)
   * 3 Stars Egg #2 &#8211; dapatkan 3 bintang di semua Level pada World 2 (Mighty Hoax)<figure id="attachment_354" aria-describedby="caption-attachment-354" style="width: 300px" class="wp-caption aligncenter">
 
-[<img loading="lazy" class="size-medium wp-image-354" title="angry-birds" src="http://nesaci.com/wp-content/uploads/2010/10/angry-birds-300x132.png" alt="" width="300" height="132" />](http://nesaci.com/wp-content/uploads/2010/10/angry-birds.png)<figcaption id="caption-attachment-354" class="wp-caption-text">Where to find Golden Egg on Angry Birds</figcaption></figure>
+[<img loading="lazy" class="size-medium wp-image-354" title="angry-birds" src="https://nesaci.com/wp-content/uploads/2010/10/angry-birds-300x132.png" alt="" width="300" height="132" />](https://nesaci.com/wp-content/uploads/2010/10/angry-birds.png)<figcaption id="caption-attachment-354" class="wp-caption-text">Where to find Golden Egg on Angry Birds</figcaption></figure>

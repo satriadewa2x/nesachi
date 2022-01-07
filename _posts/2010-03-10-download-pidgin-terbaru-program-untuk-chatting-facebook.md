@@ -4,7 +4,7 @@ title: Download Pidgin Terbaru Program untuk Chatting Facebook
 date: 2010-03-10T14:55:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=25
+guid: https://nesaci.com/?p=25
 permalink: /download-pidgin-terbaru-program-untuk-chatting-facebook/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

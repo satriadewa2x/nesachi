@@ -4,7 +4,7 @@ title: Sejarah Kerajaan Kutai di Indonesia
 date: 2011-03-14T07:39:14+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=604
+guid: https://nesaci.com/?p=604
 permalink: /sejarah-kerajaan-kutai-di-indonesia/
 categories:
   - Catatan Harian

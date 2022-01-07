@@ -4,7 +4,7 @@ title: Final Fantasy IV Complete Edition, Details of its Special Edition Ultimat
 date: 2011-01-26T08:10:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=531
+guid: https://nesaci.com/?p=531
 permalink: /final-fantasy-iv-complete-edition-details-of-its-special-edition-ultimate-pack-for-psp/
 categories:
   - Catatan Harian

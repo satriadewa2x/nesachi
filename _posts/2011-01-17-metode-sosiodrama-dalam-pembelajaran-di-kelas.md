@@ -4,7 +4,7 @@ title: Metode Sosiodrama dalam Pembelajaran di Kelas
 date: 2011-01-17T08:18:46+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=516
+guid: https://nesaci.com/?p=516
 permalink: /metode-sosiodrama-dalam-pembelajaran-di-kelas/
 categories:
   - Catatan Harian

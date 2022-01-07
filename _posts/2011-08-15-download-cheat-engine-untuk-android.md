@@ -4,7 +4,7 @@ title: Download Cheat Engine untuk Android
 date: 2011-08-15T19:27:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=727
+guid: https://nesaci.com/?p=727
 permalink: /download-cheat-engine-untuk-android/
 categories:
   - Android

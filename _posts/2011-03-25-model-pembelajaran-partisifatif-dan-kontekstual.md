@@ -4,7 +4,7 @@ title: Model Pembelajaran Partisifatif dan Kontekstual
 date: 2011-03-25T18:14:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=625
+guid: https://nesaci.com/?p=625
 permalink: /model-pembelajaran-partisifatif-dan-kontekstual/
 categories:
   - Catatan Harian

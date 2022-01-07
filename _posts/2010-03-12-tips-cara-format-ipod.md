@@ -4,7 +4,7 @@ title: Tips Cara Format iPod
 date: 2010-03-12T13:29:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=30
+guid: https://nesaci.com/?p=30
 permalink: /tips-cara-format-ipod/
 categories:
   - Catatan Harian

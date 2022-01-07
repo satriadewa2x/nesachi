@@ -4,7 +4,7 @@ title: Jenis dan Pengertian Novel
 date: 2012-09-04T23:25:46+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=898
+guid: https://nesaci.com/?p=898
 permalink: /jenis-dan-pengertian-novel/
 categories:
   - Catatan Harian

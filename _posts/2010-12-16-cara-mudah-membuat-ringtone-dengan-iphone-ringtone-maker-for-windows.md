@@ -4,7 +4,7 @@ title: Cara Mudah Membuat Ringtone dengan iPhone Ringtone Maker for Windows
 date: 2010-12-16T07:28:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=440
+guid: https://nesaci.com/?p=440
 permalink: /cara-mudah-membuat-ringtone-dengan-iphone-ringtone-maker-for-windows/
 categories:
   - iPhone

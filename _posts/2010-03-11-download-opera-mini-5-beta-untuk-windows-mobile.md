@@ -4,7 +4,7 @@ title: Download Opera Mini 5 beta untuk Windows Mobile
 date: 2010-03-11T14:30:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=27
+guid: https://nesaci.com/?p=27
 permalink: /download-opera-mini-5-beta-untuk-windows-mobile/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

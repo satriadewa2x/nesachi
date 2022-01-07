@@ -4,7 +4,7 @@ title: 5 Tips To Read Your Feeds from Twitter
 date: 2010-09-26T16:02:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=250
+guid: https://nesaci.com/?p=250
 permalink: /5-tips-to-read-your-feeds-from-twitter/
 categories:
   - Tips dan Trick

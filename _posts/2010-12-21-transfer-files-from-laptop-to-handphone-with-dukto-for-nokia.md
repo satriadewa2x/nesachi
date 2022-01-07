@@ -4,7 +4,7 @@ title: Transfer Files from Laptop to Handphone with Dukto for Nokia
 date: 2010-12-21T07:45:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=458
+guid: https://nesaci.com/?p=458
 permalink: /transfer-files-from-laptop-to-handphone-with-dukto-for-nokia/
 categories:
   - Nokia

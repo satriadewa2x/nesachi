@@ -4,7 +4,7 @@ title: Spesifikas Lengkap iPad 3 atau iPad HD
 date: 2012-03-08T09:57:19+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=819
+guid: https://nesaci.com/?p=819
 permalink: /spesifikas-lengkap-ipad-3-atau-ipad-hd/
 categories:
   - iPad

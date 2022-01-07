@@ -4,7 +4,7 @@ title: The Top 20 Most Downloaded Applications For iPhone
 date: 2011-01-09T10:07:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=489
+guid: https://nesaci.com/?p=489
 permalink: /the-top-20-most-downloaded-applications-for-iphone/
 categories:
   - iPhone

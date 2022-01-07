@@ -4,7 +4,7 @@ title: Makalah tentang Pengertian Revolusi Biru
 date: 2011-02-26T13:32:09+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=579
+guid: https://nesaci.com/?p=579
 permalink: /makalah-tentang-pengertian-revolusi-biru/
 categories:
   - Catatan Harian

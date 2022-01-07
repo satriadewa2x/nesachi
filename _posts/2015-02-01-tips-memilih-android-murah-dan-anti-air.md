@@ -4,7 +4,7 @@ title: Tips Memilih Android Murah dan Anti Air
 date: 2015-02-01T09:34:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1070
+guid: https://nesaci.com/?p=1070
 permalink: /tips-memilih-android-murah-dan-anti-air/
 categories:
   - Android
@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-wtAcf0r8qxc/VMRzjvW_8EI/AAAAAAAADtc/kF97vU7GDH0/s1600/hp_android_tahan_air_murah_m2.jpg" alt="Android Murah Anti Air Terbaru" width="550" height="635" /><!--more-->
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-wtAcf0r8qxc/VMRzjvW_8EI/AAAAAAAADtc/kF97vU7GDH0/s1600/hp_android_tahan_air_murah_m2.jpg" alt="Android Murah Anti Air Terbaru" width="550" height="635" /><!--more-->
 </p>
 
 <p style="text-align: justify;">
@@ -29,7 +29,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-05RVzNHVwj0/VMRzjSFTWNI/AAAAAAAADtY/AgElytVuIsQ/s1600/hp_android_samsung_anti_air_s4_active.jpg" alt="Android Murah Anti Air Terbaru" width="550" height="635" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-05RVzNHVwj0/VMRzjSFTWNI/AAAAAAAADtY/AgElytVuIsQ/s1600/hp_android_samsung_anti_air_s4_active.jpg" alt="Android Murah Anti Air Terbaru" width="550" height="635" />
 </p>
 
 <p style="text-align: justify;">
@@ -37,7 +37,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-5q5Fw7CeRzk/VMRzi9OYGgI/AAAAAAAADtU/0hUXWMGOp6s/s1600/hp_android_anti_air_bagus_z3.jpg" alt="Android Anti Air Termurah" width="550" height="635" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-5q5Fw7CeRzk/VMRzi9OYGgI/AAAAAAAADtU/0hUXWMGOp6s/s1600/hp_android_anti_air_bagus_z3.jpg" alt="Android Anti Air Termurah" width="550" height="635" />
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +45,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-i5ao58qLVJU/VMRzhTDx-XI/AAAAAAAADtA/_97bNMYy4ho/s1600/handphone_android_anti_air_s5.jpg" alt="Android Terbaru Anti Air Murah" width="550" height="635" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-i5ao58qLVJU/VMRzhTDx-XI/AAAAAAAADtA/_97bNMYy4ho/s1600/handphone_android_anti_air_s5.jpg" alt="Android Terbaru Anti Air Murah" width="550" height="635" />
 </p>
 
 <p style="text-align: justify;">
@@ -54,12 +54,12 @@ tags:
 
 **Sony xPeria Z2**
 
-<img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-R80Hw0t3700/VMRzkSFzbHI/AAAAAAAADts/vbUYEfMikQg/s1600/smartphone_anti_air_z2.jpg" alt="" width="550" height="635" /> 
+<img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-R80Hw0t3700/VMRzkSFzbHI/AAAAAAAADts/vbUYEfMikQg/s1600/smartphone_anti_air_z2.jpg" alt="" width="550" height="635" /> 
 
 **Motorola Defy Plus**
 
-<img loading="lazy" class="aligncenter" src="http://2.bp.blogspot.com/-9PzLKLF2J1s/VMRzhDBkn2I/AAAAAAAADtE/NQ3pXJJeCX0/s1600/handphone_android_tahan_air_motorola.jpg" alt="" width="550" height="635" /> 
+<img loading="lazy" class="aligncenter" src="https://2.bp.blogspot.com/-9PzLKLF2J1s/VMRzhDBkn2I/AAAAAAAADtE/NQ3pXJJeCX0/s1600/handphone_android_tahan_air_motorola.jpg" alt="" width="550" height="635" /> 
 
 **Sony xPeria Go**
 
-<img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-TRyhiYOtl_A/VMRzhPiPsqI/AAAAAAAADs8/8wth09vIQ3s/s1600/handphone_sony_anti_air_xperia_go.jpg" alt="" width="550" height="635" />
+<img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-TRyhiYOtl_A/VMRzhPiPsqI/AAAAAAAADs8/8wth09vIQ3s/s1600/handphone_sony_anti_air_xperia_go.jpg" alt="" width="550" height="635" />

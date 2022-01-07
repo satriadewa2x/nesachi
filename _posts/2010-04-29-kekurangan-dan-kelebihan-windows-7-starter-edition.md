@@ -4,7 +4,7 @@ title: Kekurangan dan Kelebihan Windows 7 Starter Edition
 date: 2010-04-29T14:54:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=112
+guid: https://nesaci.com/?p=112
 permalink: /kekurangan-dan-kelebihan-windows-7-starter-edition/
 categories:
   - Catatan Harian
@@ -37,7 +37,7 @@ tags:
   Tidak Support Tablet PC. Kamu baru membeli sebuah Tablet PC dengan layar sentuh, maka Windows 7 Starter Edition tidak akan mendukung Tablet PC tersebut.
 </li>
 <li style="text-align: justify;">
-  Tampilan Desktop yang membosankan. Benar sekali, di Windows 7 Starter Edition kita tidak bisa merubah Background Desktop dengan foto atau gambar yang kita ingin. Background telah dikunci, dan hanya menampilkan logo Window saja. Meski dengan program khusus mungkin kita bisa men-tweak-nya. Untuk Mengganti Tema/Theme di Windows 7 Starter Edition kamu bisa Membaca artikel tentang <a title="Cara Mengganti Tema Windows 7 Starter Edition" href="http://nesaci.com/cara-mengganti-wallpaper-di-windows-7-starter-edition/" target="_self"><strong>Cara Mengganti Tema Windows 7 Starter Edition di Netbook</strong></a>
+  Tampilan Desktop yang membosankan. Benar sekali, di Windows 7 Starter Edition kita tidak bisa merubah Background Desktop dengan foto atau gambar yang kita ingin. Background telah dikunci, dan hanya menampilkan logo Window saja. Meski dengan program khusus mungkin kita bisa men-tweak-nya. Untuk Mengganti Tema/Theme di Windows 7 Starter Edition kamu bisa Membaca artikel tentang <a title="Cara Mengganti Tema Windows 7 Starter Edition" href="https://nesaci.com/cara-mengganti-wallpaper-di-windows-7-starter-edition/" target="_self"><strong>Cara Mengganti Tema Windows 7 Starter Edition di Netbook</strong></a>
 </li>
 
 <p style="text-align: justify;">

@@ -4,7 +4,7 @@ title: Cara Boot ke Safe Mode di Windows XP
 date: 2010-04-22T07:48:38+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=94
+guid: https://nesaci.com/?p=94
 permalink: /cara-boot-ke-safe-mode-di-windows-xp/
 categories:
   - Tips dan Trick

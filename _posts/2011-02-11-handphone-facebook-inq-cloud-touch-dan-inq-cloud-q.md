@@ -4,7 +4,7 @@ title: 'Handphone Facebook: INQ Cloud Touch dan INQ Cloud Q'
 date: 2011-02-11T18:23:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=558
+guid: https://nesaci.com/?p=558
 permalink: /handphone-facebook-inq-cloud-touch-dan-inq-cloud-q/
 categories:
   - Android
@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <a href="http://nesaci.com/wp-content/uploads/2011/02/handphone-facebook.jpg"><img loading="lazy" class="size-full wp-image-559 aligncenter" title="handphone-facebook" src="http://nesaci.com/wp-content/uploads/2011/02/handphone-facebook.jpg" alt="HP Facebook" width="400" height="242" /></a>
+  <a href="https://nesaci.com/wp-content/uploads/2011/02/handphone-facebook.jpg"><img loading="lazy" class="size-full wp-image-559 aligncenter" title="handphone-facebook" src="https://nesaci.com/wp-content/uploads/2011/02/handphone-facebook.jpg" alt="HP Facebook" width="400" height="242" /></a>
 </p>
 
 <p style="text-align: justify;">

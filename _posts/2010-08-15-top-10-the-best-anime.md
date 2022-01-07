@@ -4,7 +4,7 @@ title: Top 10 The Best Anime
 date: 2010-08-15T10:53:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=192
+guid: https://nesaci.com/?p=192
 permalink: /top-10-the-best-anime/
 categories:
   - Catatan Harian

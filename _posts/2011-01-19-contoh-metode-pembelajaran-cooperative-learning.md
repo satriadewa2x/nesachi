@@ -4,7 +4,7 @@ title: Contoh Metode Pembelajaran Cooperative Learning
 date: 2011-01-19T13:17:05+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=521
+guid: https://nesaci.com/?p=521
 permalink: /contoh-metode-pembelajaran-cooperative-learning/
 categories:
   - Catatan Harian

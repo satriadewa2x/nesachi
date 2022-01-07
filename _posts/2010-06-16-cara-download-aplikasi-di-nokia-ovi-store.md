@@ -4,7 +4,7 @@ title: Cara Download Aplikasi di Nokia Ovi Store
 date: 2010-06-16T20:12:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=156
+guid: https://nesaci.com/?p=156
 permalink: /cara-download-aplikasi-di-nokia-ovi-store/
 categories:
   - Tips dan Trick

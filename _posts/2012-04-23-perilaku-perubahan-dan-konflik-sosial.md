@@ -4,7 +4,7 @@ title: Perilaku, Perubahan dan Konflik Sosial
 date: 2012-04-23T12:18:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=842
+guid: https://nesaci.com/?p=842
 permalink: /perilaku-perubahan-dan-konflik-sosial/
 categories:
   - Catatan Harian

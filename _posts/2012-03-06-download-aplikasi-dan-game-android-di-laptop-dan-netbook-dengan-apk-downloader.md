@@ -4,7 +4,7 @@ title: Aplikasi dan Game Android di Laptop dan Netbook dengan APK Downloader
 date: 2012-03-06T09:20:28+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=816
+guid: https://nesaci.com/?p=816
 permalink: /download-aplikasi-dan-game-android-di-laptop-dan-netbook-dengan-apk-downloader/
 categories:
   - Android
@@ -24,7 +24,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Pertama instal Browser Google Chrome di Laptop Anda, dan pastikan versi Google Chrome yang Anda instal adalah versi 17 ke atas. Setelah Google Chrome terinstal kemudian install Extention APK Downloader untuk Google Chrome. http://codekiem.com/apk-downloader/crx/1.0.crx
+  Pertama instal Browser Google Chrome di Laptop Anda, dan pastikan versi Google Chrome yang Anda instal adalah versi 17 ke atas. Setelah Google Chrome terinstal kemudian install Extention APK Downloader untuk Google Chrome. https://codekiem.com/apk-downloader/crx/1.0.crx
 </p>
 
 <p style="text-align: justify;">

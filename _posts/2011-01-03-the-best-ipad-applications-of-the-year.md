@@ -4,7 +4,7 @@ title: The Best iPad Applications of the Year
 date: 2011-01-03T15:18:38+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=474
+guid: https://nesaci.com/?p=474
 permalink: /the-best-ipad-applications-of-the-year/
 categories:
   - iPad

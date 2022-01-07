@@ -4,7 +4,7 @@ title: Five Must Have Apps for the iPad
 date: 2010-11-18T07:51:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=379
+guid: https://nesaci.com/?p=379
 permalink: /five-must-have-apps-for-the-ipad/
 categories:
   - iPad
@@ -59,7 +59,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Amazon: application to the bookstore, can bring the purchase of books, one click. And watch for Rethink Books (currently in limited beta version) http://www.rethinkbooks.com
+  Amazon: application to the bookstore, can bring the purchase of books, one click. And watch for Rethink Books (currently in limited beta version) https://www.rethinkbooks.com
 </p>
 
 <p style="text-align: justify;">

@@ -4,7 +4,7 @@ title: Nokia X2 – Nokia dengan Sistem Operasi Android dan Windows Phone
 date: 2014-05-27T10:33:13+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1017
+guid: https://nesaci.com/?p=1017
 permalink: /nokia-x2-nokia-dengan-sistem-operasi-android-dan-windows-phone/
 categories:
   - Android

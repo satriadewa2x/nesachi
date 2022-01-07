@@ -4,7 +4,7 @@ title: 'Download iPad Game: Battle Bears GO'
 date: 2010-09-28T07:49:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=257
+guid: https://nesaci.com/?p=257
 permalink: /download-ipad-game-battle-bears-go/
 categories:
   - Uncategorized

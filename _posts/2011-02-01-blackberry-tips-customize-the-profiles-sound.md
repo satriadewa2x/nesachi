@@ -4,7 +4,7 @@ title: 'BlackBerry Tips: Customize The Profiles Sound'
 date: 2011-02-01T07:46:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=539
+guid: https://nesaci.com/?p=539
 permalink: /blackberry-tips-customize-the-profiles-sound/
 categories:
   - Blackberry

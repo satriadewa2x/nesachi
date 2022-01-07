@@ -4,7 +4,7 @@ title: Apakah PodCast itu?
 date: 2010-10-25T12:09:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=351
+guid: https://nesaci.com/?p=351
 permalink: /apakah-podcast-itu/
 categories:
   - Tips dan Trick

@@ -4,7 +4,7 @@ title: Setting Internet Android dan Cara Disable Internet di Android
 date: 2012-04-15T11:05:38+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=831
+guid: https://nesaci.com/?p=831
 permalink: /setting-internet-android-dan-cara-disable-internet-di-android/
 categories:
   - Android
@@ -24,11 +24,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Untuk Setting Internet Android, pertama masuk ke menu Setting – Wireless and Network – Mobile Network &#8211; Access Point Names selanjutnya pilih masukan APN dari operator yang Anda pakai. Untuk lebih jelasnya Anda bisa simak di <a href="http://www.putrifauziah.com/2012/02/setting-internet-di-android-apn.html" rel="nofollow" target="_blank"><span style="text-decoration: underline;"><strong>Cara Setting Internet Android</strong></span></a>.
+  Untuk Setting Internet Android, pertama masuk ke menu Setting – Wireless and Network – Mobile Network &#8211; Access Point Names selanjutnya pilih masukan APN dari operator yang Anda pakai. Untuk lebih jelasnya Anda bisa simak di <a href="https://www.putrifauziah.com/2012/02/setting-internet-di-android-apn.html" rel="nofollow" target="_blank"><span style="text-decoration: underline;"><strong>Cara Setting Internet Android</strong></span></a>.
 </p>
 
 <p style="text-align: justify;">
-  Lalu, bagaimana jika kita malah ingin sebaliknya, yakni Disable Koneksi Internet di Android? lho, kok ingin disable Internet Android? ini bisa jadi karena Anda tidak ingin pulsa di HP Android Anda terpotong secara tak sengaja, gara-gara koneksi internetnya selalu Aktif. Berikut ini adalah adalah <a href="http://www.putrifauziah.com/2012/04/cara-disable-dan-menonaktifkan-koneksi.html" rel="nofollow" target="_blank"><span style="text-decoration: underline;"><strong>Trick Cara Disable Internet Android</strong></span></a>.
+  Lalu, bagaimana jika kita malah ingin sebaliknya, yakni Disable Koneksi Internet di Android? lho, kok ingin disable Internet Android? ini bisa jadi karena Anda tidak ingin pulsa di HP Android Anda terpotong secara tak sengaja, gara-gara koneksi internetnya selalu Aktif. Berikut ini adalah adalah <a href="https://www.putrifauziah.com/2012/04/cara-disable-dan-menonaktifkan-koneksi.html" rel="nofollow" target="_blank"><span style="text-decoration: underline;"><strong>Trick Cara Disable Internet Android</strong></span></a>.
 </p>
 
 <p style="text-align: justify;">

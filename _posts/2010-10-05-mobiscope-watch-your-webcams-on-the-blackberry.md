@@ -4,7 +4,7 @@ title: Mobiscope Watch your Webcams on the BlackBerry
 date: 2010-10-05T15:52:06+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=291
+guid: https://nesaci.com/?p=291
 permalink: /mobiscope-watch-your-webcams-on-the-blackberry/
 categories:
   - Blackberry

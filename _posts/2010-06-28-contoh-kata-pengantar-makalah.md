@@ -4,7 +4,7 @@ title: Contoh Kata Pengantar Makalah
 date: 2010-06-28T10:50:37+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=173
+guid: https://nesaci.com/?p=173
 permalink: /contoh-kata-pengantar-makalah/
 categories:
   - Catatan Harian

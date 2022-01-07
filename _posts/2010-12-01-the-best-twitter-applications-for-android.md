@@ -4,7 +4,7 @@ title: The Best Twitter Applications for Android
 date: 2010-12-01T07:56:20+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=408
+guid: https://nesaci.com/?p=408
 permalink: /the-best-twitter-applications-for-android/
 categories:
   - Android

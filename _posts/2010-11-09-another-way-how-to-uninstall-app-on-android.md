@@ -4,7 +4,7 @@ title: Another Way How To Uninstall App on Android
 date: 2010-11-09T07:41:46+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=369
+guid: https://nesaci.com/?p=369
 permalink: /another-way-how-to-uninstall-app-on-android/
 categories:
   - Android

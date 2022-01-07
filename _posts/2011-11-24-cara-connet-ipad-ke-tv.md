@@ -4,7 +4,7 @@ title: Cara Connet iPad ke TV
 date: 2011-11-24T19:30:14+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=779
+guid: https://nesaci.com/?p=779
 permalink: /cara-connet-ipad-ke-tv/
 categories:
   - iPad

@@ -4,7 +4,7 @@ title: Langkah dan Cara Membuat Presentasi secara Online
 date: 2010-05-11T10:02:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=119
+guid: https://nesaci.com/?p=119
 permalink: /langkah-dan-cara-membuat-presentasi-secara-online/
 categories:
   - Catatan Harian

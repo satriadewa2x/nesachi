@@ -4,7 +4,7 @@ title: Panduan Facebook Untuk Blackberry
 date: 2010-04-19T15:03:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=86
+guid: https://nesaci.com/?p=86
 permalink: /panduan-facebook-untuk-blackberry/
 categories:
   - Tips dan Trick
@@ -20,5 +20,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download Panduan Mengakses Facebook di Blackberry" href="http://nesaci.com/wp-content/uploads/nesaci/Panduan-Facebook-Untuk-Blackberry.zip"><strong>Download Panduan Facebook untuk Blackberry</strong></a>
+  <a title="Download Panduan Mengakses Facebook di Blackberry" href="https://nesaci.com/wp-content/uploads/nesaci/Panduan-Facebook-Untuk-Blackberry.zip"><strong>Download Panduan Facebook untuk Blackberry</strong></a>
 </p>

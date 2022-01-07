@@ -4,7 +4,7 @@ title: 'Call of Duty: Black Ops, to Feel The Bullets and The Smell Of Blood'
 date: 2010-10-06T14:53:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=297
+guid: https://nesaci.com/?p=297
 permalink: /call-of-duty-black-ops-to-feel-the-bullets-and-the-smell-of-blood/
 categories:
   - Catatan Gadget

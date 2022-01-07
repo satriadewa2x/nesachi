@@ -4,7 +4,7 @@ title: Final Fantasy XIII Versus, New Video and Data on the Role Play
 date: 2011-01-20T12:09:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=524
+guid: https://nesaci.com/?p=524
 permalink: /final-fantasy-xiii-versus-new-video-and-data-on-the-role-play/
 categories:
   - Catatan Harian

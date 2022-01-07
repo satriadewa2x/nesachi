@@ -4,7 +4,7 @@ title: Music PlayerPro, The Best Music Player for Android?
 date: 2010-12-03T07:51:09+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=412
+guid: https://nesaci.com/?p=412
 permalink: /music-playerpro-the-best-music-player-for-android/
 categories:
   - Android

@@ -4,7 +4,7 @@ title: 'TVUPlayer &#8211; Program untuk Nonton TV'
 date: 2010-03-20T06:40:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=50
+guid: https://nesaci.com/?p=50
 permalink: /tvuplayer-program-untuk-nonton-tv/
 categories:
   - Catatan Harian

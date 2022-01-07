@@ -4,7 +4,7 @@ title: 'Browser Handphone Alternatif Opera Mini untuk Nokia: Ovi Browser'
 date: 2010-09-13T22:07:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=240
+guid: https://nesaci.com/?p=240
 permalink: /browser-handphone-alternatif-opera-mini-untuk-nokia-ovi-browser/
 categories:
   - Catatan Gadget

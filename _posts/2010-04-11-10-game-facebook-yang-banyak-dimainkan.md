@@ -4,7 +4,7 @@ title: 10 Game Facebook yang Banyak Dimainkan
 date: 2010-04-11T08:35:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=67
+guid: https://nesaci.com/?p=67
 permalink: /10-game-facebook-yang-banyak-dimainkan/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Amazon is Preparing an Application Store for Android
 date: 2010-10-09T07:39:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=307
+guid: https://nesaci.com/?p=307
 permalink: /amazon-is-preparing-an-application-store-for-android/
 categories:
   - Android

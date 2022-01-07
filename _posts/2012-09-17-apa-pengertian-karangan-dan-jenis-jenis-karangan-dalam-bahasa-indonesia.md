@@ -4,7 +4,7 @@ title: Apa Pengertian Karangan dan Jenis-Jenis Karangan dalam Bahasa Indonesia
 date: 2012-09-17T09:43:48+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=909
+guid: https://nesaci.com/?p=909
 permalink: /apa-pengertian-karangan-dan-jenis-jenis-karangan-dalam-bahasa-indonesia/
 categories:
   - Catatan Harian

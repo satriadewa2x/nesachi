@@ -4,7 +4,7 @@ title: Perbedaan Zat Aditif dan Zat Adiktif
 date: 2012-04-28T16:35:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1280
+guid: https://nesaci.com/?p=1280
 permalink: /perbedaan-zat-aditif-dan-zat-adiktif/
 categories:
   - Makalah

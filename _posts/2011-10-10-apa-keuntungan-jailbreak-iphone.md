@@ -4,7 +4,7 @@ title: Apa Keuntungan Jailbreak iPhone
 date: 2011-10-10T19:48:04+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=762
+guid: https://nesaci.com/?p=762
 permalink: /apa-keuntungan-jailbreak-iphone/
 categories:
   - iPad

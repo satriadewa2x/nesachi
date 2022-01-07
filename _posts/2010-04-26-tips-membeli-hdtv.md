@@ -4,7 +4,7 @@ title: Tips Membeli HDTV
 date: 2010-04-26T07:36:10+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=102
+guid: https://nesaci.com/?p=102
 permalink: /tips-membeli-hdtv/
 categories:
   - Tips dan Trick

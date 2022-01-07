@@ -4,7 +4,7 @@ title: Ciri-ciri Orang Dewasa
 date: 2010-07-06T16:06:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=177
+guid: https://nesaci.com/?p=177
 permalink: /ciri-ciri-orang-dewasa/
 categories:
   - Catatan Gadget

@@ -4,7 +4,7 @@ title: Pengertian Kesusastraan dan Jenis-Jenis Kesusastraan
 date: 2011-01-13T11:00:46+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=502
+guid: https://nesaci.com/?p=502
 permalink: /pengertian-kesusastraan-dan-jenis-jenis-kesusastraan/
 categories:
   - Catatan Harian

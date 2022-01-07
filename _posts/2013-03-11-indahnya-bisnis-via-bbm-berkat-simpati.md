@@ -4,7 +4,7 @@ title: Indahnya Bisnis via BBM Berkat SimPATI
 date: 2013-03-11T10:50:47+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=943
+guid: https://nesaci.com/?p=943
 permalink: /indahnya-bisnis-via-bbm-berkat-simpati/
 categories:
   - Blackberry

@@ -4,7 +4,7 @@ title: HDR Could Reach iPhone 3GS
 date: 2010-10-02T07:50:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=274
+guid: https://nesaci.com/?p=274
 permalink: /hdr-could-reach-iphone-3gs/
 categories:
   - iPhone

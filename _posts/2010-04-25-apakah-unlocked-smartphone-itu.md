@@ -4,7 +4,7 @@ title: Apakah Unlocked Smartphone itu?
 date: 2010-04-25T09:37:36+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=100
+guid: https://nesaci.com/?p=100
 permalink: /apakah-unlocked-smartphone-itu/
 categories:
   - Catatan Gadget

@@ -4,7 +4,7 @@ title: Membuka dan Membaca File PDF di iPad
 date: 2011-10-02T09:22:36+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=758
+guid: https://nesaci.com/?p=758
 permalink: /membuka-dan-membaca-file-pdf-di-ipad/
 categories:
   - iPad

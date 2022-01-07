@@ -4,7 +4,7 @@ title: Download iTunes 1.10 Full Version
 date: 2010-11-13T07:42:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=377
+guid: https://nesaci.com/?p=377
 permalink: /download-itunes-1-10-full-version/
 categories:
   - iPhone

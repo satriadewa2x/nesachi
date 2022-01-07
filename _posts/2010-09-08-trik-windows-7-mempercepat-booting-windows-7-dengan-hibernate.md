@@ -4,7 +4,7 @@ title: 'Trik Windows 7 : Mempercepat booting Windows 7 dengan Hibernate'
 date: 2010-09-08T11:33:45+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=234
+guid: https://nesaci.com/?p=234
 permalink: /trik-windows-7-mempercepat-booting-windows-7-dengan-hibernate/
 categories:
   - Tips dan Trick

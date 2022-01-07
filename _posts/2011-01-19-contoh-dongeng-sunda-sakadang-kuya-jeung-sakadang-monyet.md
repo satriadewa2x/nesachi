@@ -4,7 +4,7 @@ title: 'Contoh Dongeng Sunda: Sakadang Kuya Jeung Sakadang Monyet'
 date: 2011-01-19T22:10:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1258
+guid: https://nesaci.com/?p=1258
 permalink: /contoh-dongeng-sunda-sakadang-kuya-jeung-sakadang-monyet/
 categories:
   - Dongeng

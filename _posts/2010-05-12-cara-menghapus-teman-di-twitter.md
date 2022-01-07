@@ -4,7 +4,7 @@ title: Cara Menghapus Teman di Twitter
 date: 2010-05-12T10:33:06+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=122
+guid: https://nesaci.com/?p=122
 permalink: /cara-menghapus-teman-di-twitter/
 categories:
   - Tips dan Trick

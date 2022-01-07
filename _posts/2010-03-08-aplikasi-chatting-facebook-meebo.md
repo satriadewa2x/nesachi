@@ -4,7 +4,7 @@ title: Aplikasi Chatting Facebook – Meebo
 date: 2010-03-08T04:11:14+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=10
+guid: https://nesaci.com/?p=10
 permalink: /aplikasi-chatting-facebook-meebo/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

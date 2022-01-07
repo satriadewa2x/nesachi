@@ -4,7 +4,7 @@ title: Daftar Lengkap Lagu Michael Jackson The King of Pop
 date: 2009-07-04T22:05:37+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1256
+guid: https://nesaci.com/?p=1256
 permalink: /daftar-lengkap-lagu-michael-jackson-the-king-of-pop/
 categories:
   - Berita

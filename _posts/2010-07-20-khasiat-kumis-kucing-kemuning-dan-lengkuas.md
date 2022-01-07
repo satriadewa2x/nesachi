@@ -4,7 +4,7 @@ title: Khasiat Kumis Kucing, Kemuning dan Lengkuas
 date: 2010-07-20T09:29:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=183
+guid: https://nesaci.com/?p=183
 permalink: /khasiat-kumis-kucing-kemuning-dan-lengkuas/
 categories:
   - Catatan Harian

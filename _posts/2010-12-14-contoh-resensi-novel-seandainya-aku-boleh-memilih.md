@@ -4,7 +4,7 @@ title: Contoh Resensi Novel Seandainya Aku Boleh Memilih
 date: 2010-12-14T18:33:37+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=435
+guid: https://nesaci.com/?p=435
 permalink: /contoh-resensi-novel-seandainya-aku-boleh-memilih/
 categories:
   - Catatan Harian

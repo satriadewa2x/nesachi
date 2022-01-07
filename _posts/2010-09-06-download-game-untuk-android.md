@@ -4,7 +4,7 @@ title: Download Game untuk Android
 date: 2010-09-06T16:29:48+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=229
+guid: https://nesaci.com/?p=229
 permalink: /download-game-untuk-android/
 categories:
   - Tips dan Trick

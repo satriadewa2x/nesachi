@@ -4,7 +4,7 @@ title: Contoh Soal dan Jawabannya
 date: 2011-01-13T07:58:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=499
+guid: https://nesaci.com/?p=499
 permalink: /contoh-soal-dan-jawabannya/
 categories:
   - Catatan Harian

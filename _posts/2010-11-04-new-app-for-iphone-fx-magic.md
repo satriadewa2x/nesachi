@@ -4,7 +4,7 @@ title: 'New App for iPhone: FX Magic'
 date: 2010-11-04T07:08:50+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=364
+guid: https://nesaci.com/?p=364
 permalink: /new-app-for-iphone-fx-magic/
 categories:
   - iPhone

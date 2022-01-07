@@ -4,7 +4,7 @@ title: New Vogue App for iPhone
 date: 2010-09-27T17:14:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=255
+guid: https://nesaci.com/?p=255
 permalink: /new-vogue-app-for-iphone/
 categories:
   - iPhone

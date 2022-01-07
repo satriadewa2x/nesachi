@@ -4,7 +4,7 @@ title: Shazam Encore for iPhone is updated to version 3.0.5
 date: 2010-10-08T07:41:10+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=303
+guid: https://nesaci.com/?p=303
 permalink: /shazam-encore-for-iphone-is-updated-to-version-3-0-5/
 categories:
   - iPhone

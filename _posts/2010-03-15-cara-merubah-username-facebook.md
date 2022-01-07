@@ -4,7 +4,7 @@ title: Cara Merubah Username Facebook
 date: 2010-03-15T09:16:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=36
+guid: https://nesaci.com/?p=36
 permalink: /cara-merubah-username-facebook/
 categories:
   - Catatan Harian
@@ -18,7 +18,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Coba bandingkan antara :<br /> <strong>http://www.facebook.com/profile.php?id=123456789</strong><br /> dan<br /> <strong>http://www.facebook.com/nama.kamu</strong><br /> mana yang lebih mudah diingat?
+  Coba bandingkan antara :<br /> <strong>https://www.facebook.com/profile.php?id=123456789</strong><br /> dan<br /> <strong>https://www.facebook.com/nama.kamu</strong><br /> mana yang lebih mudah diingat?
 </p>
 
 <p style="text-align: justify;">
@@ -26,7 +26,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Klik untuk Mengetahui/Membuat Username Facebook" rel="nofollow" href="http://www.facebook.com/username" target="_blank"><strong>http://www.facebook.com/username</strong></a>
+  <a title="Klik untuk Mengetahui/Membuat Username Facebook" rel="nofollow" href="https://www.facebook.com/username" target="_blank"><strong>https://www.facebook.com/username</strong></a>
 </p>
 
 <p style="text-align: justify;">

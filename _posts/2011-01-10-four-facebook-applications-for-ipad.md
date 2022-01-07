@@ -4,7 +4,7 @@ title: Four Facebook Applications for iPad
 date: 2011-01-10T07:58:37+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=492
+guid: https://nesaci.com/?p=492
 permalink: /four-facebook-applications-for-ipad/
 categories:
   - iPad

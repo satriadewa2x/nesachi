@@ -4,7 +4,7 @@ title: Cara Download Aplikasi iPhone 3GS tanpa iTunes
 date: 2010-05-28T08:24:33+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=143
+guid: https://nesaci.com/?p=143
 permalink: /cara-download-aplikasi-iphone-3gs-tanpa-itunes/
 categories:
   - Tips dan Trick

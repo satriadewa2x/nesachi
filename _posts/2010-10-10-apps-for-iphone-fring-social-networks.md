@@ -4,7 +4,7 @@ title: 'Apps for iPhone: Fring Social Networks'
 date: 2010-10-10T22:56:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=311
+guid: https://nesaci.com/?p=311
 permalink: /apps-for-iphone-fring-social-networks/
 categories:
   - iPhone

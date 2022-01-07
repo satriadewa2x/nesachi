@@ -4,7 +4,7 @@ title: Contoh Abstrak untuk Makalah dalam Bahasa Inggris
 date: 2010-06-28T09:46:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=165
+guid: https://nesaci.com/?p=165
 permalink: /contoh-abstrak-untuk-makalah-dalam-bahasa-inggris/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Cara Install Aplikasi di Handphone Android
 date: 2010-09-13T13:43:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=238
+guid: https://nesaci.com/?p=238
 permalink: /cara-install-aplikasi-di-handphone-android/
 categories:
   - Tips dan Trick

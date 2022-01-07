@@ -4,7 +4,7 @@ title: Sony Reader Expands and Comes To Android
 date: 2010-12-05T08:49:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=414
+guid: https://nesaci.com/?p=414
 permalink: /sony-reader-expands-and-comes-to-android/
 categories:
   - Android

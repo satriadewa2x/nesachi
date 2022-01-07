@@ -4,7 +4,7 @@ title: Pengertian dan Karakteristik Penelitian Tindakan Kelas
 date: 2010-08-21T15:30:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=213
+guid: https://nesaci.com/?p=213
 permalink: /pengertian-dan-karakteristik-penelitian-tindakan-kelas/
 categories:
   - Catatan Harian

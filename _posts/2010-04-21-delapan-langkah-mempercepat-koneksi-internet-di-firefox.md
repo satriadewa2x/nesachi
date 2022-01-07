@@ -4,7 +4,7 @@ title: Delapan Langkah Mempercepat Koneksi Internet di Firefox
 date: 2010-04-21T07:55:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=92
+guid: https://nesaci.com/?p=92
 permalink: /delapan-langkah-mempercepat-koneksi-internet-di-firefox/
 categories:
   - Tips dan Trick

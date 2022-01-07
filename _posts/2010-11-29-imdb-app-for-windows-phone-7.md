@@ -4,7 +4,7 @@ title: IMDb App for Windows Phone 7
 date: 2010-11-29T07:45:13+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=399
+guid: https://nesaci.com/?p=399
 permalink: /imdb-app-for-windows-phone-7/
 categories:
   - Windows Phone 7

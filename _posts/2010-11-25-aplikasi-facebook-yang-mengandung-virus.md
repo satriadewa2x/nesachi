@@ -4,7 +4,7 @@ title: Aplikasi Facebook yang Mengandung Virus?
 date: 2010-11-25T07:10:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=388
+guid: https://nesaci.com/?p=388
 permalink: /aplikasi-facebook-yang-mengandung-virus/
 categories:
   - Catatan Harian

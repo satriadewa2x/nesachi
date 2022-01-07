@@ -4,7 +4,7 @@ title: Pengertian Keluarga dan Fungsi Keluarga
 date: 2012-04-21T23:04:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1311
+guid: https://nesaci.com/?p=1311
 permalink: /pengertian-keluarga-dan-fungsi-keluarga/
 categories:
   - Makalah

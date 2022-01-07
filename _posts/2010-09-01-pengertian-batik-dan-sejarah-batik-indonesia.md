@@ -4,7 +4,7 @@ title: Pengertian Batik dan Sejarah Batik Indonesia
 date: 2010-09-01T11:10:42+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=220
+guid: https://nesaci.com/?p=220
 permalink: /pengertian-batik-dan-sejarah-batik-indonesia/
 categories:
   - Uncategorized

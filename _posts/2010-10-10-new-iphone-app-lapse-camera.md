@@ -4,7 +4,7 @@ title: 'New iPhone App: Lapse Camera'
 date: 2010-10-10T09:11:49+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=309
+guid: https://nesaci.com/?p=309
 permalink: /new-iphone-app-lapse-camera/
 categories:
   - iPhone

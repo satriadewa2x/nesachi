@@ -4,7 +4,7 @@ title: Scopa Game for iPhone is Updated to Version 3.0 with Significant New
 date: 2010-10-03T09:37:49+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=278
+guid: https://nesaci.com/?p=278
 permalink: /scopa-game-for-iphone-is-updated-to-version-3-0-with-significant-new/
 categories:
   - iPhone

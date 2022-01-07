@@ -4,7 +4,7 @@ title: MP4 dan Youtube FLV Player di Android Samsung Galaxy Y
 date: 2011-12-27T08:16:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=798
+guid: https://nesaci.com/?p=798
 permalink: /mp4-dan-youtube-flv-player-di-android-samsung-galaxy-y/
 categories:
   - Android

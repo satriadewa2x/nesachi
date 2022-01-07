@@ -4,7 +4,7 @@ title: Download Daftar Game Sony Ericsson xPeria Play
 date: 2011-09-26T18:59:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=752
+guid: https://nesaci.com/?p=752
 permalink: /download-daftar-game-sony-ericsson-xperia-play/
 categories:
   - Android

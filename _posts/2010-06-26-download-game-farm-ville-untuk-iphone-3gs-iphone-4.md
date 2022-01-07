@@ -4,7 +4,7 @@ title: Download Game Farm Ville untuk iPhone 3GS/ iPhone 4
 date: 2010-06-26T15:30:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=161
+guid: https://nesaci.com/?p=161
 permalink: /download-game-farm-ville-untuk-iphone-3gs-iphone-4/
 categories:
   - Catatan Harian

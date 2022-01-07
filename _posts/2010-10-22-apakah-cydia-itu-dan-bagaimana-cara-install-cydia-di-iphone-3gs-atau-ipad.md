@@ -4,7 +4,7 @@ title: Apakah Cydia itu dan Bagaimana Cara Install Cydia di iPhone 3GS atau iPad
 date: 2010-10-22T12:12:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=345
+guid: https://nesaci.com/?p=345
 permalink: /apakah-cydia-itu-dan-bagaimana-cara-install-cydia-di-iphone-3gs-atau-ipad/
 categories:
   - iPad

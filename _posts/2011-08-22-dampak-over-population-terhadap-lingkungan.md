@@ -4,7 +4,7 @@ title: Dampak Over Population terhadap Lingkungan
 date: 2011-08-22T11:18:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=733
+guid: https://nesaci.com/?p=733
 permalink: /dampak-over-population-terhadap-lingkungan/
 categories:
   - Catatan Harian

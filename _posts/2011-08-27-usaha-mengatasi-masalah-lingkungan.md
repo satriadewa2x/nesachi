@@ -4,7 +4,7 @@ title: Usaha Mengatasi Masalah Lingkungan
 date: 2011-08-27T09:45:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=735
+guid: https://nesaci.com/?p=735
 permalink: /usaha-mengatasi-masalah-lingkungan/
 categories:
   - Catatan Harian

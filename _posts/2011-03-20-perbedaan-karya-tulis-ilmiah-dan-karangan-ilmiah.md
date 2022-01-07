@@ -4,7 +4,7 @@ title: Perbedaan Karya Tulis Ilmiah dan Karangan Ilmiah
 date: 2011-03-20T10:56:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=618
+guid: https://nesaci.com/?p=618
 permalink: /perbedaan-karya-tulis-ilmiah-dan-karangan-ilmiah/
 categories:
   - Catatan Harian

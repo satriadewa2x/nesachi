@@ -4,7 +4,7 @@ title: Bagaimana Cara Daftar Blackberry Beta Zone
 date: 2011-07-04T23:00:00+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=697
+guid: https://nesaci.com/?p=697
 permalink: /bagaimana-cara-daftar-blackberry-beta-zone/
 categories:
   - Blackberry

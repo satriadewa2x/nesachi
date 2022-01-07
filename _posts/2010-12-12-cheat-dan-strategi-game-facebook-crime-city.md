@@ -4,7 +4,7 @@ title: Cheat dan Strategi Game Facebook Crime City
 date: 2010-12-12T08:56:20+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=429
+guid: https://nesaci.com/?p=429
 permalink: /cheat-dan-strategi-game-facebook-crime-city/
 categories:
   - Catatan Harian
@@ -46,5 +46,5 @@ tags:
   Dalam memilih bangunan atau property sebagai sumber uang, sesuaikan dengan jangka waktu kamu memainkan Crime City, jika kamu memainkan Crime City sehari sekali sebaiknya membeli bangunan yang menghasilkan uang 1 hari satu kali misalkan NightClub. Namun jika kamu memainkan Crimet City setiap saat alias setiap jam, kamu bisa memilih bangunan yang bisa menghasilkan uang dalam jangka 1 atau 2 jam.
 </li>
 <li style="text-align: justify;">
-  Untuk mendapatkan Mafia sebanyak-banyaknya, kamu bisa meng-Add Friend orang-orang yang sama-sama memainkan Crime City, kamu bisa lihat di hxxp://www.facebook.com/crimecity atau silahkan <a title="Add Facebook Nesaci" rel="nofollow" href="http://www.facebook.com/profile.php?id=100000869903682" target="_blank"><strong>Add FB Nesaci dan jadilah Neighbor/Mafia Nesaci</strong></a>.
+  Untuk mendapatkan Mafia sebanyak-banyaknya, kamu bisa meng-Add Friend orang-orang yang sama-sama memainkan Crime City, kamu bisa lihat di hxxp://www.facebook.com/crimecity atau silahkan <a title="Add Facebook Nesaci" rel="nofollow" href="https://www.facebook.com/profile.php?id=100000869903682" target="_blank"><strong>Add FB Nesaci dan jadilah Neighbor/Mafia Nesaci</strong></a>.
 </li>

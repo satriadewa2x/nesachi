@@ -4,7 +4,7 @@ title: The Best Photo Editor for Nokia N8
 date: 2010-11-06T07:26:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=366
+guid: https://nesaci.com/?p=366
 permalink: /the-best-photo-editor-for-nokia-n8/
 categories:
   - Nokia

@@ -4,7 +4,7 @@ title: Cara Merubah Apple ID di iPad dan iPhone!
 date: 2011-12-02T09:50:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=786
+guid: https://nesaci.com/?p=786
 permalink: /cara-merubah-apple-id-di-ipad-dan-iphone/
 categories:
   - Catatan Harian
@@ -24,5 +24,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Pertama masuk ke menu Setting – General lalu Store setelah itu Anda tinggal sentuh Sign Out untuk keluar dari Apple ID yang sudah ada di iPad. Setelah sukses melakukan Sign Out akan ada warning “Account : Not Signed In”, setelah itu tinggal sentuh lagi Sign In kemudian masukan data email Apple ID milik Anda pada bagian username dan masukan beserta passwordnya. Setelah sukses melakukan Sign In selanjutnya akan muncul Verification Required dimana Apple akan melakukan verifikasi terhadap Apple ID Anda, tinggal sentuh tombol OK. Jangan lupa pada proses verifikasi ini Anda diwajibkan untuk memasukan data kartu kredit Anda, sebagai media pembayaran jika suatu waktu Anda membeli sebuah game atau aplikasi di App Store. Jika Anda mengalami masalah saat melakukan Verifikasi silahkan baca<strong> <a href="http://www.putrifauziah.com/2011/12/tidak-bisa-sign-in-di-ipad-error-saat.html" rel="nofollow" target="_blank">Error Saat Verifikasi Apple ID di iPad</a></strong>.
+  Pertama masuk ke menu Setting – General lalu Store setelah itu Anda tinggal sentuh Sign Out untuk keluar dari Apple ID yang sudah ada di iPad. Setelah sukses melakukan Sign Out akan ada warning “Account : Not Signed In”, setelah itu tinggal sentuh lagi Sign In kemudian masukan data email Apple ID milik Anda pada bagian username dan masukan beserta passwordnya. Setelah sukses melakukan Sign In selanjutnya akan muncul Verification Required dimana Apple akan melakukan verifikasi terhadap Apple ID Anda, tinggal sentuh tombol OK. Jangan lupa pada proses verifikasi ini Anda diwajibkan untuk memasukan data kartu kredit Anda, sebagai media pembayaran jika suatu waktu Anda membeli sebuah game atau aplikasi di App Store. Jika Anda mengalami masalah saat melakukan Verifikasi silahkan baca<strong> <a href="https://www.putrifauziah.com/2011/12/tidak-bisa-sign-in-di-ipad-error-saat.html" rel="nofollow" target="_blank">Error Saat Verifikasi Apple ID di iPad</a></strong>.
 </p>

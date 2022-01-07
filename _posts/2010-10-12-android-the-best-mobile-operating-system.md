@@ -4,7 +4,7 @@ title: 'Android: The Best Mobile Operating System?'
 date: 2010-10-12T23:25:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=318
+guid: https://nesaci.com/?p=318
 permalink: /android-the-best-mobile-operating-system/
 categories:
   - Android

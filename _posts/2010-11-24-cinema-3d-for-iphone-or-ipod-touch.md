@@ -4,7 +4,7 @@ title: Cinema 3D for iPhone or iPod Touch
 date: 2010-11-24T07:32:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=384
+guid: https://nesaci.com/?p=384
 permalink: /cinema-3d-for-iphone-or-ipod-touch/
 categories:
   - iPhone

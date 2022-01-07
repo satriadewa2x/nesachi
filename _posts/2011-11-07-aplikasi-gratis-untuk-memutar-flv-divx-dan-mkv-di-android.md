@@ -4,7 +4,7 @@ title: Aplikasi Gratis Untuk Memutar FLV, DivX dan MKV di Android
 date: 2011-11-07T08:02:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=775
+guid: https://nesaci.com/?p=775
 permalink: /aplikasi-gratis-untuk-memutar-flv-divx-dan-mkv-di-android/
 categories:
   - Android

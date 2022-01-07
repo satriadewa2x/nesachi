@@ -4,7 +4,7 @@ title: Model Pembelajaran Mandiri (Self Directed Learning)
 date: 2011-03-27T09:56:50+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=627
+guid: https://nesaci.com/?p=627
 permalink: /model-pembelajaran-mandiri-self-directed-learning/
 categories:
   - Catatan Harian

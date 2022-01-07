@@ -4,7 +4,7 @@ title: Apakah Nokia Ovi Store itu? Dan Bagaimana Cara Menggunakan Nokia Ovi Stor
 date: 2010-11-30T13:55:33+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=404
+guid: https://nesaci.com/?p=404
 permalink: /apakah-nokia-ovi-store-itu-dan-bagaimana-cara-menggunakan-nokia-ovi-store/
 categories:
   - Catatan Harian

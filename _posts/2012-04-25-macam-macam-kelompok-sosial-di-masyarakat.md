@@ -4,7 +4,7 @@ title: 'Macam-macam Kelompok Sosial  di Masyarakat'
 date: 2012-04-25T22:15:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=846
+guid: https://nesaci.com/?p=846
 permalink: /macam-macam-kelompok-sosial-di-masyarakat/
 categories:
   - Catatan Harian

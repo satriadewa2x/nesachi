@@ -4,7 +4,7 @@ title: Contoh Undangan Umroh Bahasa Sunda
 date: 2012-03-31T22:51:01+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1292
+guid: https://nesaci.com/?p=1292
 permalink: /contoh-undangan-umroh-bahasa-sunda/
 categories:
   - Catatan Harian

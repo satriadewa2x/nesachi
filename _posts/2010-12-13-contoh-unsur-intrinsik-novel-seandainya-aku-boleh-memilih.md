@@ -4,7 +4,7 @@ title: Contoh Unsur Intrinsik Novel “Seandainya Aku Boleh Memilih”
 date: 2010-12-13T23:03:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1309
+guid: https://nesaci.com/?p=1309
 permalink: /contoh-unsur-intrinsik-novel-seandainya-aku-boleh-memilih/
 categories:
   - Makalah

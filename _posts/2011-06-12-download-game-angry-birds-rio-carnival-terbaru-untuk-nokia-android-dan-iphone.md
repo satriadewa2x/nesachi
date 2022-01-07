@@ -4,7 +4,7 @@ title: Download Game Angry Birds Rio Carnival Terbaru Untuk Nokia, Android dan i
 date: 2011-06-12T13:00:01+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=674
+guid: https://nesaci.com/?p=674
 permalink: /download-game-angry-birds-rio-carnival-terbaru-untuk-nokia-android-dan-iphone/
 categories:
   - Android

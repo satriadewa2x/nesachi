@@ -4,7 +4,7 @@ title: Download Theme Terbaru untuk Windows 7 dari Microsoft
 date: 2010-12-29T08:57:54+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=466
+guid: https://nesaci.com/?p=466
 permalink: /download-theme-terbaru-untuk-windows-7-dari-microsoft/
 categories:
   - Catatan Harian
@@ -21,5 +21,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Silahkan <a title="Download Gratis Theme untuk Windows 7" href="http://download.microsoft.com/download/A/0/E/A0E37598-57C8-4746-A029-41D06DE91DB3/Fireworks.themepack" target="_blank"><strong>Download Tema Terbaru Windows 7 dari Microsoft </strong></a>
+  Silahkan <a title="Download Gratis Theme untuk Windows 7" href="https://download.microsoft.com/download/A/0/E/A0E37598-57C8-4746-A029-41D06DE91DB3/Fireworks.themepack" target="_blank"><strong>Download Tema Terbaru Windows 7 dari Microsoft </strong></a>
 </p>

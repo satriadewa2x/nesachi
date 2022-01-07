@@ -4,7 +4,7 @@ title: Angry Birds, Now Available on PlayStation 3 and PSP
 date: 2011-01-05T09:53:47+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=478
+guid: https://nesaci.com/?p=478
 permalink: /angry-birds-now-available-on-playstation-3-and-psp/
 categories:
   - Catatan Gadget

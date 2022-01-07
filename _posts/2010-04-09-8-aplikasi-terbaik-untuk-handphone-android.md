@@ -4,7 +4,7 @@ title: 8 Aplikasi Terbaik Untuk Handphone Android
 date: 2010-04-09T07:25:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=60
+guid: https://nesaci.com/?p=60
 permalink: /8-aplikasi-terbaik-untuk-handphone-android/
 categories:
   - Tips dan Trick

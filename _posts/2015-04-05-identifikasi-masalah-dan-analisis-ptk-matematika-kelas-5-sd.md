@@ -4,7 +4,7 @@ title: Identifikasi Masalah dan Analisis PTK Matematika Kelas 5 SD
 date: 2015-04-05T21:01:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1084
+guid: https://nesaci.com/?p=1084
 permalink: /identifikasi-masalah-dan-analisis-ptk-matematika-kelas-5-sd/
 categories:
   - Makalah

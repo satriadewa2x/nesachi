@@ -4,7 +4,7 @@ title: Download Kumpulan Autotext Lucu Terbaru untuk BBM Android
 date: 2014-07-03T09:42:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1022
+guid: https://nesaci.com/?p=1022
 permalink: /download-kumpulan-autotext-lucu-terbaru-untuk-bbm-android/
 categories:
   - Android
@@ -21,7 +21,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-Q5OIHJqfjtg/U6pXU8_TJhI/AAAAAAAADQI/AGAcFAVwdfU/s1600/Autoteks_Android_baru.png" alt="" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-Q5OIHJqfjtg/U6pXU8_TJhI/AAAAAAAADQI/AGAcFAVwdfU/s1600/Autoteks_Android_baru.png" alt="" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">
@@ -79,7 +79,7 @@ Berikut ini adalah beberapa contoh Autoteks Terbaru yang ada di aplikasi ini.
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://play.google.com/store/apps/details?id=com.nana.autoteksterbaru"><img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-De1ANDt5LiM/U686fZYWYnI/AAAAAAAADTM/wbO1RFiwfP0/s1600/google-play-store.png" alt="" width="320" height="95" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.nana.autoteksterbaru"><img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-De1ANDt5LiM/U686fZYWYnI/AAAAAAAADTM/wbO1RFiwfP0/s1600/google-play-store.png" alt="" width="320" height="95" /></a>
 </p>
 
 <p style="text-align: justify;">
@@ -87,5 +87,5 @@ Berikut ini adalah beberapa contoh Autoteks Terbaru yang ada di aplikasi ini.
 </p>
 
 <p style="text-align: justify;">
-  Cara lain install Autoteks di Android, adalah dengan menggunakan SmartKeyboard <strong>http://goo.gl/cdN56Y</strong> sehingga nantinya Anda bisa dengan mudah Install Autoteks di Android. Dengan teknik ini, Anda bisa mendapatkan Autoteks seperti halnya di Blackberry. Mudah dan cepat.
+  Cara lain install Autoteks di Android, adalah dengan menggunakan SmartKeyboard <strong>https://goo.gl/cdN56Y</strong> sehingga nantinya Anda bisa dengan mudah Install Autoteks di Android. Dengan teknik ini, Anda bisa mendapatkan Autoteks seperti halnya di Blackberry. Mudah dan cepat.
 </p>

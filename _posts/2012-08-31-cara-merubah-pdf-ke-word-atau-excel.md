@@ -4,7 +4,7 @@ title: Cara Merubah PDF ke Word atau Excel
 date: 2012-08-31T14:18:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=894
+guid: https://nesaci.com/?p=894
 permalink: /cara-merubah-pdf-ke-word-atau-excel/
 categories:
   - Catatan Harian
@@ -32,7 +32,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-   <img loading="lazy" class="aligncenter" title="rubah pdf ke doc" src="http://4.bp.blogspot.com/-bYIf1dhIA6M/UEBkHNNXmUI/AAAAAAAAAEg/PtT_ZwVvwrc/s1600/rubah_pdf_ke_word.jpg" alt="" width="600" height="350" />
+   <img loading="lazy" class="aligncenter" title="rubah pdf ke doc" src="https://4.bp.blogspot.com/-bYIf1dhIA6M/UEBkHNNXmUI/AAAAAAAAAEg/PtT_ZwVvwrc/s1600/rubah_pdf_ke_word.jpg" alt="" width="600" height="350" />
 </p>
 
 <p style="text-align: justify;">

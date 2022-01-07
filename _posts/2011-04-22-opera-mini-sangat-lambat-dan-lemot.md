@@ -4,7 +4,7 @@ title: Opera Mini Sangat Lambat dan Lemot!
 date: 2011-04-22T14:52:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=641
+guid: https://nesaci.com/?p=641
 permalink: /opera-mini-sangat-lambat-dan-lemot/
 categories:
   - Android

@@ -4,7 +4,7 @@ title: Paket Internet Gratis dari Axis Sampai Desember 2013
 date: 2012-10-20T08:38:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=924
+guid: https://nesaci.com/?p=924
 permalink: /paket-internet-gratis-dari-axis-sampai-desember-2013/
 categories:
   - Catatan Harian

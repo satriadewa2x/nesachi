@@ -4,7 +4,7 @@ title: New Update WordPress v2.6 for iPad and iPhone
 date: 2010-10-01T12:12:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=272
+guid: https://nesaci.com/?p=272
 permalink: /new-update-wordpress-v2-6-for-ipad-and-iphone/
 categories:
   - iPad

@@ -4,7 +4,7 @@ title: How to Configure your New iPad
 date: 2010-12-30T17:33:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=469
+guid: https://nesaci.com/?p=469
 permalink: /how-to-configure-your-new-ipad/
 categories:
   - iPad

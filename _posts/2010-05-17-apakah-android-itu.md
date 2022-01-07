@@ -4,7 +4,7 @@ title: Apakah Android itu?
 date: 2010-05-17T09:15:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=128
+guid: https://nesaci.com/?p=128
 permalink: /apakah-android-itu/
 categories:
   - Catatan Gadget

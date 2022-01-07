@@ -4,7 +4,7 @@ title: Gears of War Ultimate Game for Xbox 360
 date: 2011-01-04T12:48:28+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=476
+guid: https://nesaci.com/?p=476
 permalink: /gears-of-war-ultimate-game-for-xbox-360/
 categories:
   - Windows

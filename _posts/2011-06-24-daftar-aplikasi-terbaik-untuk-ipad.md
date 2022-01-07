@@ -4,7 +4,7 @@ title: Daftar Aplikasi Terbaik untuk iPad
 date: 2011-06-24T13:05:02+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=691
+guid: https://nesaci.com/?p=691
 permalink: /daftar-aplikasi-terbaik-untuk-ipad/
 categories:
   - iPad

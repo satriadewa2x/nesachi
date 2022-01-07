@@ -4,7 +4,7 @@ title: Model Pembelajaran Number Head Together (NHT)
 date: 2011-03-23T07:47:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=620
+guid: https://nesaci.com/?p=620
 permalink: /model-pembelajaran-number-head-together-nht/
 categories:
   - Catatan Harian

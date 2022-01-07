@@ -4,7 +4,7 @@ title: Tingkat, Fungsi dan Prinsip Manajemen
 date: 2011-03-13T10:36:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=601
+guid: https://nesaci.com/?p=601
 permalink: /tingkat-fungsi-dan-prinsip-manajemen/
 categories:
   - Catatan Harian

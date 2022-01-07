@@ -4,7 +4,7 @@ title: Bagaimana Cara Backup iPhone via iTunes
 date: 2011-01-23T08:14:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=527
+guid: https://nesaci.com/?p=527
 permalink: /bagaimana-cara-backup-iphone-via-itunes/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Aplikasi Youtube Player untuk Nokia N8 dan Nokia C7
 date: 2012-08-23T12:37:14+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=888
+guid: https://nesaci.com/?p=888
 permalink: /aplikasi-youtube-player-untuk-nokia-n8-dan-nokia-c7/
 categories:
   - Nokia

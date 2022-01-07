@@ -4,7 +4,7 @@ title: Cara Reset iPhone 3GS
 date: 2010-06-19T15:22:00+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=159
+guid: https://nesaci.com/?p=159
 permalink: /cara-reset-iphone-3gs/
 categories:
   - Tips dan Trick

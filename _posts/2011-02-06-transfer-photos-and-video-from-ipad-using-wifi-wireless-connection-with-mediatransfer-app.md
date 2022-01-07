@@ -4,7 +4,7 @@ title: Transfer Photos and Video from iPad Using Wifi Wireless Connection with M
 date: 2011-02-06T08:35:05+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=550
+guid: https://nesaci.com/?p=550
 permalink: /transfer-photos-and-video-from-ipad-using-wifi-wireless-connection-with-mediatransfer-app/
 categories:
   - iPad

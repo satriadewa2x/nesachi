@@ -4,7 +4,7 @@ title: Apa itu Spiritual Quetient (SQ)?
 date: 2010-06-29T09:27:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=175
+guid: https://nesaci.com/?p=175
 permalink: /apa-itu-spiritual-quetient-sq/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: 'Snapkeys for iPad dan iPhone &#8211; The Invisible Keyboard'
 date: 2010-09-27T10:34:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=252
+guid: https://nesaci.com/?p=252
 permalink: /snapkeys-for-ipad-dan-iphone-the-invisible-keyboard/
 categories:
   - iPhone

@@ -4,7 +4,7 @@ title: Contoh Pidato Serah Terima Pengantin dalam Bahasa Sunda
 date: 2010-08-28T17:26:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1270
+guid: https://nesaci.com/?p=1270
 permalink: /contoh-pidato-serah-terima-pengantin-dalam-bahasa-sunda/
 categories:
   - Catatan Harian

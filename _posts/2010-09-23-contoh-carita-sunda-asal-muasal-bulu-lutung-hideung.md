@@ -4,7 +4,7 @@ title: 'Contoh Carita Sunda : Asal Muasal Bulu Lutung Hideung'
 date: 2010-09-23T10:52:41+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1294
+guid: https://nesaci.com/?p=1294
 permalink: /contoh-carita-sunda-asal-muasal-bulu-lutung-hideung/
 categories:
   - Makalah

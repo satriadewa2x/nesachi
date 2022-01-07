@@ -4,7 +4,7 @@ title: Apakah iPad itu? Apa Spesifikasi dan Fitur iPad?
 date: 2010-06-01T09:51:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=146
+guid: https://nesaci.com/?p=146
 permalink: /apakah-ipad-itu-apa-spesifikasi-dan-fitur-ipad/
 categories:
   - Catatan Gadget
@@ -53,5 +53,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  [<a href="http://www.putrifauziah.com/" target="_blank"><strong>source</strong></a>]
+  [<a href="https://www.putrifauziah.com/" target="_blank"><strong>source</strong></a>]
 </p>

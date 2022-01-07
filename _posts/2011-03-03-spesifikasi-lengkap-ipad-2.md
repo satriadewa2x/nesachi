@@ -4,7 +4,7 @@ title: Spesifikasi Lengkap iPad 2
 date: 2011-03-03T10:54:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=587
+guid: https://nesaci.com/?p=587
 permalink: /spesifikasi-lengkap-ipad-2/
 categories:
   - iPad

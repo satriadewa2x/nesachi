@@ -4,7 +4,7 @@ title: Download Aplikasi untuk Motorola Milestone
 date: 2010-04-28T11:38:04+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=108
+guid: https://nesaci.com/?p=108
 permalink: /download-aplikasi-untuk-motorola-milestone/
 categories:
   - Tips dan Trick

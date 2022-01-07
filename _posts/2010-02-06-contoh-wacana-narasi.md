@@ -4,7 +4,7 @@ title: Contoh Wacana Narasi
 date: 2010-02-06T07:06:44+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1313
+guid: https://nesaci.com/?p=1313
 permalink: /contoh-wacana-narasi/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

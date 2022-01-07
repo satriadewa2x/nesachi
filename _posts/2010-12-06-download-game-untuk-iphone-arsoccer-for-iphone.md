@@ -4,7 +4,7 @@ title: 'Download Game untuk iPhone: ARSoccer for iPhone'
 date: 2010-12-06T11:07:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=417
+guid: https://nesaci.com/?p=417
 permalink: /download-game-untuk-iphone-arsoccer-for-iphone/
 categories:
   - iPhone

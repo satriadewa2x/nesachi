@@ -4,7 +4,7 @@ title: Perbedaan Metode Diskusi Kelompok dan Metode Konvensional
 date: 2012-02-24T15:50:01+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=809
+guid: https://nesaci.com/?p=809
 permalink: /perbedaan-metode-diskusi-kelompok-dan-metode-konvensional/
 categories:
   - Catatan Harian

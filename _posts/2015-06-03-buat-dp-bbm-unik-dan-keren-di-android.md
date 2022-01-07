@@ -4,7 +4,7 @@ title: Buat DP BBM Unik dan Keren di Android
 date: 2015-06-03T07:34:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1106
+guid: https://nesaci.com/?p=1106
 permalink: /buat-dp-bbm-unik-dan-keren-di-android/
 categories:
   - Android
@@ -28,7 +28,7 @@ tags:
 <!--more-->
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-2GOIF8Sg3Vo/VWvSr1aeMrI/AAAAAAAAFmY/q7K7Zi37Q1M/s1600/buat-dp-unik-bbm-2.png" alt="cara buat DP Unik BBM" width="500" height="875" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-2GOIF8Sg3Vo/VWvSr1aeMrI/AAAAAAAAFmY/q7K7Zi37Q1M/s1600/buat-dp-unik-bbm-2.png" alt="cara buat DP Unik BBM" width="500" height="875" />
 </p>
 
 <p style="text-align: justify;">
@@ -40,7 +40,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-o7WkdXYYz9Q/VWvSsEVRhsI/AAAAAAAAFmc/WCp31G2QlMM/s1600/but-dp-bbm-unik-1.png" alt="cara membuat DP BBM Unik" width="610" height="534" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-o7WkdXYYz9Q/VWvSsEVRhsI/AAAAAAAAFmc/WCp31G2QlMM/s1600/but-dp-bbm-unik-1.png" alt="cara membuat DP BBM Unik" width="610" height="534" />
 </p>
 
 <p style="text-align: justify;">

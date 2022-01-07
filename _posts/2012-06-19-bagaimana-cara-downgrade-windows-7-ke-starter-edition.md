@@ -4,7 +4,7 @@ title: Bagaimana Cara Downgrade Windows 7 Ke Starter Edition
 date: 2012-06-19T10:10:30+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=855
+guid: https://nesaci.com/?p=855
 permalink: /bagaimana-cara-downgrade-windows-7-ke-starter-edition/
 categories:
   - Catatan Gadget

@@ -4,7 +4,7 @@ title: 'New App for iPhone: Mirage &#8211; Photo Studio'
 date: 2010-10-04T15:03:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=285
+guid: https://nesaci.com/?p=285
 permalink: /new-app-for-iphone-mirage-photo-studio/
 categories:
   - iPhone

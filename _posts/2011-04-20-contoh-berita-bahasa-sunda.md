@@ -4,7 +4,7 @@ title: Contoh Berita Bahasa Sunda
 date: 2011-04-20T20:44:30+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1286
+guid: https://nesaci.com/?p=1286
 permalink: /contoh-berita-bahasa-sunda/
 categories:
   - Makalah

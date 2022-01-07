@@ -4,7 +4,7 @@ title: 'Contoh Cerita Rakyat dalam Bahasa Inggris: The Shepherd, The Fox and The
 date: 2011-02-10T07:59:36+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=554
+guid: https://nesaci.com/?p=554
 permalink: /contoh-cerita-rakyat-dalam-bahasa-inggris-the-shepherd-the-fox-and-the-tiger/
 categories:
   - Catatan Harian

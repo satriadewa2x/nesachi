@@ -4,7 +4,7 @@ title: Sinopsis Layar Terkembang
 date: 2009-12-16T22:54:16+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1296
+guid: https://nesaci.com/?p=1296
 permalink: /sinopsis-layar-terkembang/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

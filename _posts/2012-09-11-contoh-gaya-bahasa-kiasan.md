@@ -4,7 +4,7 @@ title: Contoh Gaya Bahasa Kiasan
 date: 2012-09-11T07:23:19+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=905
+guid: https://nesaci.com/?p=905
 permalink: /contoh-gaya-bahasa-kiasan/
 categories:
   - Catatan Harian

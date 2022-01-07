@@ -4,7 +4,7 @@ title: Apakah AirPrint dan AirPlay itu?
 date: 2010-12-19T12:12:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=453
+guid: https://nesaci.com/?p=453
 permalink: /apakah-airprint-dan-airplay-itu/
 categories:
   - iPad

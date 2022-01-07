@@ -4,7 +4,7 @@ title: Alternatif Terbaik Facebook
 date: 2010-03-17T09:27:58+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=44
+guid: https://nesaci.com/?p=44
 permalink: /alternatif-terbaik-facebook/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: The Best Cydia Apps for iPhone
 date: 2010-10-11T23:13:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=313
+guid: https://nesaci.com/?p=313
 permalink: /the-best-cydia-apps-for-iphone/
 categories:
   - iPhone

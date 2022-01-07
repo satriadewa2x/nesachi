@@ -4,7 +4,7 @@ title: Chrome OS Could Come To Market In Less Than A Month
 date: 2010-10-15T07:21:05+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=329
+guid: https://nesaci.com/?p=329
 permalink: /chrome-os-could-come-to-market-in-less-than-a-month/
 categories:
   - Catatan Harian

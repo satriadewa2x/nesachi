@@ -4,7 +4,7 @@ title: Download Opera Mini untuk iPhone
 date: 2010-04-13T14:38:49+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=74
+guid: https://nesaci.com/?p=74
 permalink: /download-opera-mini-untuk-iphone/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Five Best Applications for iPad
 date: 2010-11-26T07:53:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=391
+guid: https://nesaci.com/?p=391
 permalink: /five-best-applications-for-ipad/
 categories:
   - iPad

@@ -4,7 +4,7 @@ title: New Version of Evernote for Android
 date: 2010-11-10T07:43:06+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=372
+guid: https://nesaci.com/?p=372
 permalink: /new-version-of-evernote-for-android/
 categories:
   - Android

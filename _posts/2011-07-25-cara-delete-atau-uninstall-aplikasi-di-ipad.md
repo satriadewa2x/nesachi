@@ -4,7 +4,7 @@ title: Cara Delete atau Uninstall Aplikasi di iPad
 date: 2011-07-25T19:30:56+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=717
+guid: https://nesaci.com/?p=717
 permalink: /cara-delete-atau-uninstall-aplikasi-di-ipad/
 categories:
   - iPad
@@ -29,7 +29,7 @@ tags:
 
 Pertama cari Icon aplikasi atau game yang ingin di hapus, setelah ketemu lalu tekan aplikasi tersebut sampai muncul tanda X (kali) di pojok kiri icon aplikasi atau game tersebut.
 
-[<img loading="lazy" class="aligncenter size-full wp-image-718" title="hapus-aplikasi-ipad" src="http://nesaci.com/wp-content/uploads/2011/07/hapus-aplikasi-ipad.png" alt="" width="256" height="181" />](http://nesaci.com/wp-content/uploads/2011/07/hapus-aplikasi-ipad.png)
+[<img loading="lazy" class="aligncenter size-full wp-image-718" title="hapus-aplikasi-ipad" src="https://nesaci.com/wp-content/uploads/2011/07/hapus-aplikasi-ipad.png" alt="" width="256" height="181" />](https://nesaci.com/wp-content/uploads/2011/07/hapus-aplikasi-ipad.png)
 
 Klik/sentuh tanda X tersebut, kemudian Anda pilih Delete
 

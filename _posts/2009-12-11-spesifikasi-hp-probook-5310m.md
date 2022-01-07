@@ -4,7 +4,7 @@ title: Spesifikasi HP ProBook 5310m
 date: 2009-12-11T19:42:30+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1284
+guid: https://nesaci.com/?p=1284
 permalink: /spesifikasi-hp-probook-5310m/
 categories:
   - Catatan Gadget
@@ -13,7 +13,7 @@ tags:
   - Laptop
 ---
 <p style="text-align: center;">
-  <img loading="lazy" class="aligncenter" title="HP ProBook 5310m" src="http://2.bp.blogspot.com/_aLl8SoxccPw/SyDheMFvN_I/AAAAAAAAAD8/tMTC079Llg4/s400/HP-ProBook-5310m.jpg" alt="HP ProBook 5310m" width="250" height="188" />
+  <img loading="lazy" class="aligncenter" title="HP ProBook 5310m" src="https://2.bp.blogspot.com/_aLl8SoxccPw/SyDheMFvN_I/AAAAAAAAAD8/tMTC079Llg4/s400/HP-ProBook-5310m.jpg" alt="HP ProBook 5310m" width="250" height="188" />
 </p>
 
 <p style="text-align: justify;">

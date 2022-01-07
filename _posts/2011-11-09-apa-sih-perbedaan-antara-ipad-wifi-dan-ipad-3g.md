@@ -4,7 +4,7 @@ title: Apa Sih Perbedaan Antara iPad Wifi dan iPad 3G
 date: 2011-11-09T13:30:44+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=777
+guid: https://nesaci.com/?p=777
 permalink: /apa-sih-perbedaan-antara-ipad-wifi-dan-ipad-3g/
 categories:
   - iPad

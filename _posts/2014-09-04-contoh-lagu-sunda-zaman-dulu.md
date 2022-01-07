@@ -4,7 +4,7 @@ title: Contoh Lagu Sunda Zaman Dulu
 date: 2014-09-04T09:42:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1030
+guid: https://nesaci.com/?p=1030
 permalink: /contoh-lagu-sunda-zaman-dulu/
 categories:
   - Catatan Harian

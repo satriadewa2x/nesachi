@@ -4,7 +4,7 @@ title: 'Blade of the Phantom Master: Shin Angyo Onshi Review'
 date: 2010-08-17T08:20:59+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=199
+guid: https://nesaci.com/?p=199
 permalink: /blade-of-the-phantom-master-shin-angyo-onshi-reviewblade-of-the-phantom-master-shin-angyo-onshi-review/
 categories:
   - Catatan Harian

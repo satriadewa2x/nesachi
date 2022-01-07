@@ -4,7 +4,7 @@ title: Cara Install Game Java di Android – Samsung Galaxy S2
 date: 2011-12-17T10:24:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=795
+guid: https://nesaci.com/?p=795
 permalink: /cara-install-game-java-di-android-samsung-galaxy-s2/
 categories:
   - Android

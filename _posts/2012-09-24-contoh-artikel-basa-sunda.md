@@ -4,7 +4,7 @@ title: Contoh Artikel Basa Sunda
 date: 2012-09-24T13:09:53+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=915
+guid: https://nesaci.com/?p=915
 permalink: /contoh-artikel-basa-sunda/
 categories:
   - Catatan Harian

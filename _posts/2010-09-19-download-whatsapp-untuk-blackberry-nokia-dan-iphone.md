@@ -4,7 +4,7 @@ title: Download WhatsApp untuk Blackberry, Nokia dan iPhone
 date: 2010-09-19T12:43:17+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=245
+guid: https://nesaci.com/?p=245
 permalink: /download-whatsapp-untuk-blackberry-nokia-dan-iphone/
 categories:
   - Tips dan Trick

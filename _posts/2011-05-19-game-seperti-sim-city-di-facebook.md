@@ -4,7 +4,7 @@ title: Game Seperti Sim City di Facebook
 date: 2011-05-19T19:10:01+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=661
+guid: https://nesaci.com/?p=661
 permalink: /game-seperti-sim-city-di-facebook/
 categories:
   - Facebook

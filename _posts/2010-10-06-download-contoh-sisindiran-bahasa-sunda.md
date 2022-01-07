@@ -4,7 +4,7 @@ title: Download Contoh Sisindiran Bahasa Sunda
 date: 2010-10-06T10:00:12+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1304
+guid: https://nesaci.com/?p=1304
 permalink: /download-contoh-sisindiran-bahasa-sunda/
 categories:
   - Makalah

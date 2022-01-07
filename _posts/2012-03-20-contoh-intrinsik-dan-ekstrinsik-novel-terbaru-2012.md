@@ -4,7 +4,7 @@ title: Contoh Unsur Intrinsik dan Ekstrinsik Novel Terbaru 2012
 date: 2012-03-20T10:58:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=822
+guid: https://nesaci.com/?p=822
 permalink: /contoh-intrinsik-dan-ekstrinsik-novel-terbaru-2012/
 categories:
   - Catatan Harian

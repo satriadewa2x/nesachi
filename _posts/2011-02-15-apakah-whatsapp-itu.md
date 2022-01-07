@@ -4,7 +4,7 @@ title: Apakah WhatsApp itu?
 date: 2011-02-15T07:34:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=564
+guid: https://nesaci.com/?p=564
 permalink: /apakah-whatsapp-itu/
 categories:
   - Android

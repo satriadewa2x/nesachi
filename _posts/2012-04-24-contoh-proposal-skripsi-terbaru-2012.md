@@ -4,7 +4,7 @@ title: Contoh Proposal Skripsi Terbaru 2012
 date: 2012-04-24T11:21:27+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=844
+guid: https://nesaci.com/?p=844
 permalink: /contoh-proposal-skripsi-terbaru-2012/
 categories:
   - Catatan Harian
@@ -92,7 +92,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Selengkapnya <a href="http://www.4shared.com/office/C30gDqWY/PROPOSAL_SKRIPSI.html" rel="nofollow" target="_blank"><strong>Download Contoh Proposal Skripsi Terbaru 2012</strong></a>
+  Selengkapnya <a href="https://www.4shared.com/office/C30gDqWY/PROPOSAL_SKRIPSI.html" rel="nofollow" target="_blank"><strong>Download Contoh Proposal Skripsi Terbaru 2012</strong></a>
 </p>
 
 <p style="text-align: justify;">

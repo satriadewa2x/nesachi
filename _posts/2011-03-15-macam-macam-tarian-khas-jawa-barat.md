@@ -4,7 +4,7 @@ title: Macam-macam Tarian Khas Jawa Barat
 date: 2011-03-15T07:45:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=609
+guid: https://nesaci.com/?p=609
 permalink: /macam-macam-tarian-khas-jawa-barat/
 categories:
   - Catatan Harian

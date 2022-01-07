@@ -4,7 +4,7 @@ title: Solusi Hang atau Error Saat Menginstal Windows 7
 date: 2010-09-04T10:22:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=223
+guid: https://nesaci.com/?p=223
 permalink: /solusi-hang-atau-error-saat-menginstal-windows-7/
 categories:
   - Tips dan Trick

@@ -4,7 +4,7 @@ title: 'New Facebook Game: Dragon Age Legends'
 date: 2011-02-04T07:38:36+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=547
+guid: https://nesaci.com/?p=547
 permalink: /new-facebook-game-dragon-age-legends/
 categories:
   - Facebook

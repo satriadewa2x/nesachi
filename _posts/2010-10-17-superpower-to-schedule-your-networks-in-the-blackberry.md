@@ -4,7 +4,7 @@ title: SuperPower to Schedule Your Networks in the BlackBerry
 date: 2010-10-17T17:20:38+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=337
+guid: https://nesaci.com/?p=337
 permalink: /superpower-to-schedule-your-networks-in-the-blackberry/
 categories:
   - Blackberry

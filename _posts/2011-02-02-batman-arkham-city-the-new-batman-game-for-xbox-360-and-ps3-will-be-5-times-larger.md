@@ -4,7 +4,7 @@ title: 'Batman: Arkham City, the New Batman Game for Xbox 360 and PS3 will be 5 
 date: 2011-02-02T07:40:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=541
+guid: https://nesaci.com/?p=541
 permalink: /batman-arkham-city-the-new-batman-game-for-xbox-360-and-ps3-will-be-5-times-larger/
 categories:
   - Game

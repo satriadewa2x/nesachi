@@ -4,7 +4,7 @@ title: Contoh Proposal dalam Bahasa Inggris
 date: 2011-01-16T08:31:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=513
+guid: https://nesaci.com/?p=513
 permalink: /contoh-proposal-dalam-bahasa-inggris/
 categories:
   - Catatan Harian

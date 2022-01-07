@@ -4,7 +4,7 @@ title: Download Need For Speed Hot Pursuit for iPhone 4
 date: 2010-12-07T07:46:28+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=419
+guid: https://nesaci.com/?p=419
 permalink: /download-need-for-speed-hot-pursuit-for-iphone-4/
 categories:
   - iPhone

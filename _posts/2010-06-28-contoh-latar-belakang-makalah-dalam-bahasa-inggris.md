@@ -4,7 +4,7 @@ title: Contoh Latar Belakang Makalah dalam Bahasa Inggris
 date: 2010-06-28T10:10:47+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=170
+guid: https://nesaci.com/?p=170
 permalink: /contoh-latar-belakang-makalah-dalam-bahasa-inggris/
 categories:
   - Catatan Harian

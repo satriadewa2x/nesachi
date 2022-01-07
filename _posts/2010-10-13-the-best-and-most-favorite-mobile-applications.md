@@ -4,7 +4,7 @@ title: The Best and Most Favorite Mobile Applications
 date: 2010-10-13T15:22:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=324
+guid: https://nesaci.com/?p=324
 permalink: /the-best-and-most-favorite-mobile-applications/
 categories:
   - Android

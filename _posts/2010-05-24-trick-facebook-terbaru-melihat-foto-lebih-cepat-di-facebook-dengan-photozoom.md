@@ -4,7 +4,7 @@ title: 'Trick Facebook Terbaru : Melihat Foto Lebih Cepat di Facebook dengan Pho
 date: 2010-05-24T19:11:20+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=137
+guid: https://nesaci.com/?p=137
 permalink: /trick-facebook-terbaru-melihat-foto-lebih-cepat-di-facebook-dengan-photozoom/
 categories:
   - Tips dan Trick

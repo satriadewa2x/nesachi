@@ -4,7 +4,7 @@ title: Google Reader Official Application for Android
 date: 2010-12-02T07:57:46+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=410
+guid: https://nesaci.com/?p=410
 permalink: /google-reader-official-application-for-android/
 categories:
   - Android

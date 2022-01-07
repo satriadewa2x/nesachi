@@ -4,7 +4,7 @@ title: Contoh Daftar Pustaka dalam Bahasa Inggris
 date: 2011-10-03T08:28:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1272
+guid: https://nesaci.com/?p=1272
 permalink: /contoh-daftar-pustaka-dalam-bahasa-inggris/
 categories:
   - Makalah

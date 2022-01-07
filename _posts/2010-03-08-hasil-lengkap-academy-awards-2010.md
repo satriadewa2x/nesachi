@@ -4,7 +4,7 @@ title: Hasil Lengkap Academy Awards 2010
 date: 2010-03-08T13:34:28+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=14
+guid: https://nesaci.com/?p=14
 permalink: /hasil-lengkap-academy-awards-2010/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

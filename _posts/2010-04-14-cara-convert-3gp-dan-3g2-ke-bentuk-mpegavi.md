@@ -4,7 +4,7 @@ title: 'Cara Convert  .3GP dan .3G2 ke bentuk MPEG/AVI'
 date: 2010-04-14T15:59:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=78
+guid: https://nesaci.com/?p=78
 permalink: /cara-convert-3gp-dan-3g2-ke-bentuk-mpegavi/
 categories:
   - Tips dan Trick
@@ -22,5 +22,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Free Download Pazera Video Converter" rel="nofollow" href="http://www.pazera-software.com/products/3gp-to-avi-converter/"><strong>Download Pazera Free 3GP to AVI Converter </strong></a>
+  <a title="Free Download Pazera Video Converter" rel="nofollow" href="https://www.pazera-software.com/products/3gp-to-avi-converter/"><strong>Download Pazera Free 3GP to AVI Converter </strong></a>
 </p>

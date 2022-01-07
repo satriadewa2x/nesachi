@@ -4,7 +4,7 @@ title: Istilah-istilah Umum Tentang Blackberry
 date: 2011-07-13T14:16:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=706
+guid: https://nesaci.com/?p=706
 permalink: /istilah-istilah-umum-tentang-blackberry/
 categories:
   - Blackberry

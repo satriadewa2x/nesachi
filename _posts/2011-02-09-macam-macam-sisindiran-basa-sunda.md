@@ -4,7 +4,7 @@ title: Macam-macam Sisindiran Basa Sunda
 date: 2011-02-09T09:48:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1290
+guid: https://nesaci.com/?p=1290
 permalink: /macam-macam-sisindiran-basa-sunda/
 categories:
   - Makalah

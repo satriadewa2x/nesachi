@@ -4,7 +4,7 @@ title: Cara Cek Sisa Kuota Telkomsel Flash
 date: 2011-07-22T18:32:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=712
+guid: https://nesaci.com/?p=712
 permalink: /cara-cek-sisa-kuota-telkomsel-flash/
 categories:
   - Catatan Harian
@@ -21,11 +21,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Dengan Paket 50.000 ribu per bulan kuota 300MB (sampai pengisian ke-4 dan 800MB untuk pengisian ke 5 dan 6) Paket Perdana Telkomsel Flash memang lumayan bisa diandalkan. Nah, jika Anda ingin mengetahui bagaimana cara mengecek kuota Paket Telkomsel Flash, cara termudah adalah dengan mengunjungi alamat <strong>http://www.telkomsel.com/infoflash</strong> menggunakan Firefox, Chrome ataupun Internet Explorer. Sehingga nanti akan mendapatkan data seperti di bawah ini.
+  Dengan Paket 50.000 ribu per bulan kuota 300MB (sampai pengisian ke-4 dan 800MB untuk pengisian ke 5 dan 6) Paket Perdana Telkomsel Flash memang lumayan bisa diandalkan. Nah, jika Anda ingin mengetahui bagaimana cara mengecek kuota Paket Telkomsel Flash, cara termudah adalah dengan mengunjungi alamat <strong>https://www.telkomsel.com/infoflash</strong> menggunakan Firefox, Chrome ataupun Internet Explorer. Sehingga nanti akan mendapatkan data seperti di bawah ini.
 </p>
 
 <p style="text-align: justify;">
-  <a href="http://nesaci.com/wp-content/uploads/2011/07/kuota-telkomsel-flash.jpg"><img loading="lazy" class="aligncenter size-full wp-image-715" title="kuota-telkomsel-flash" src="http://nesaci.com/wp-content/uploads/2011/07/kuota-telkomsel-flash.jpg" alt="" width="450" height="250" /></a>
+  <a href="https://nesaci.com/wp-content/uploads/2011/07/kuota-telkomsel-flash.jpg"><img loading="lazy" class="aligncenter size-full wp-image-715" title="kuota-telkomsel-flash" src="https://nesaci.com/wp-content/uploads/2011/07/kuota-telkomsel-flash.jpg" alt="" width="450" height="250" /></a>
 </p>
 
 <p style="text-align: justify;">

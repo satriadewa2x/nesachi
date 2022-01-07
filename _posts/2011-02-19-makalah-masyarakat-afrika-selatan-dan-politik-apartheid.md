@@ -4,7 +4,7 @@ title: Makalah Masyarakat Afrika Selatan Dan Politik Apartheid
 date: 2011-02-19T08:05:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=571
+guid: https://nesaci.com/?p=571
 permalink: /makalah-masyarakat-afrika-selatan-dan-politik-apartheid/
 categories:
   - Catatan Harian

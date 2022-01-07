@@ -4,7 +4,7 @@ title: Cara Mengganti Huruf iPhone
 date: 2011-08-11T13:13:00+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=725
+guid: https://nesaci.com/?p=725
 permalink: /cara-mengganti-huruf-iphone/
 categories:
   - iPhone

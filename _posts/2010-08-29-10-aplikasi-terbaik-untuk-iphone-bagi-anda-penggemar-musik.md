@@ -4,7 +4,7 @@ title: 10 Aplikasi Terbaik untuk iPhone bagi Anda Penggemar Musik
 date: 2010-08-29T12:24:39+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=217
+guid: https://nesaci.com/?p=217
 permalink: /10-aplikasi-terbaik-untuk-iphone-bagi-anda-penggemar-musik/
 categories:
   - Tips dan Trick

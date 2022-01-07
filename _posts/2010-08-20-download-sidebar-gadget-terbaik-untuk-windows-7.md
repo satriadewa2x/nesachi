@@ -4,7 +4,7 @@ title: Download Sidebar Gadget Terbaik untuk Windows 7
 date: 2010-08-20T09:10:05+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=208
+guid: https://nesaci.com/?p=208
 permalink: /download-sidebar-gadget-terbaik-untuk-windows-7/
 categories:
   - Tips dan Trick
@@ -59,5 +59,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Kamu bisa Download semua Gadget tersebut di <a rel="nofollow" href="http://windows.microsoft.com/en-SG/windows/downloads/personalize/gadgets" target="_blank"><strong>Daftar Gadget Windows 7</strong></a> jangan lupa untuk mengklik <strong>Get More Desktop Gadgets</strong> untuk mendapatkan Daftar Lengkap Gadget untuk Windows 7
+  Kamu bisa Download semua Gadget tersebut di <a rel="nofollow" href="https://windows.microsoft.com/en-SG/windows/downloads/personalize/gadgets" target="_blank"><strong>Daftar Gadget Windows 7</strong></a> jangan lupa untuk mengklik <strong>Get More Desktop Gadgets</strong> untuk mendapatkan Daftar Lengkap Gadget untuk Windows 7
 </p>

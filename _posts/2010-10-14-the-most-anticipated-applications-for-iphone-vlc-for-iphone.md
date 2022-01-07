@@ -4,7 +4,7 @@ title: 'The Most Anticipated Applications for iPhone: VLC for iPhone'
 date: 2010-10-14T07:15:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=327
+guid: https://nesaci.com/?p=327
 permalink: /the-most-anticipated-applications-for-iphone-vlc-for-iphone/
 categories:
   - iPhone

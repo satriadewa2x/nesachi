@@ -4,7 +4,7 @@ title: 'New iPhone App: Midnight Camera HD for iPhone and iPod Touch 4G'
 date: 2010-10-06T07:39:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=295
+guid: https://nesaci.com/?p=295
 permalink: /new-iphone-app-midnight-camera-hd-for-iphone-and-ipod-touch-4g/
 categories:
   - iPhone

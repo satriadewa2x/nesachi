@@ -4,7 +4,7 @@ title: Beda antara Apple MacBook dan Macbook Pro
 date: 2011-04-26T10:37:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=644
+guid: https://nesaci.com/?p=644
 permalink: /beda-antara-apple-macbook-dan-macbook-pro/
 categories:
   - Catatan Gadget

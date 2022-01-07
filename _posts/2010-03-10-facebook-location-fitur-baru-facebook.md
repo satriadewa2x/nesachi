@@ -4,7 +4,7 @@ title: Facebook Location – Fitur Baru Facebook
 date: 2010-03-10T02:25:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=21
+guid: https://nesaci.com/?p=21
 permalink: /facebook-location-fitur-baru-facebook/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

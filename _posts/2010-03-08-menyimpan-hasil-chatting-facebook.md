@@ -4,7 +4,7 @@ title: Menyimpan Hasil Chatting Facebook
 date: 2010-03-08T03:57:27+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=8
+guid: https://nesaci.com/?p=8
 permalink: /menyimpan-hasil-chatting-facebook/
 yarpp_meta:
   - 'a:1:{s:27:"yarpp_display_for_this_post";i:1;}'

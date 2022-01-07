@@ -4,7 +4,7 @@ title: 'Gmail on the iPhone: The Best Applications'
 date: 2011-02-11T07:39:26+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=556
+guid: https://nesaci.com/?p=556
 permalink: /gmail-on-the-iphone-the-best-applications/
 categories:
   - iPhone

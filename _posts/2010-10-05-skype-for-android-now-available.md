@@ -4,7 +4,7 @@ title: Skype for Android now available
 date: 2010-10-05T22:50:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=293
+guid: https://nesaci.com/?p=293
 permalink: /skype-for-android-now-available/
 categories:
   - Android

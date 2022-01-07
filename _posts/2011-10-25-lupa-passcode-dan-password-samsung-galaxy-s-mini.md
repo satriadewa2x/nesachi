@@ -4,7 +4,7 @@ title: Lupa Passcode dan Password Samsung Galaxy S Mini
 date: 2011-10-25T18:05:28+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=765
+guid: https://nesaci.com/?p=765
 permalink: /lupa-passcode-dan-password-samsung-galaxy-s-mini/
 categories:
   - Android

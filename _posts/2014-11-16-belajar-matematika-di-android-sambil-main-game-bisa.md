@@ -4,7 +4,7 @@ title: Belajar Matematika di Android sambil Main Game, Bisa!
 date: 2014-11-16T11:52:45+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1058
+guid: https://nesaci.com/?p=1058
 permalink: /belajar-matematika-di-android-sambil-main-game-bisa/
 categories:
   - Android
@@ -23,7 +23,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-piH11afwlb8/VGgpjWBfBiI/AAAAAAAADnw/VIOZHE2mT9k/s1600/Belajar_Matematika_Android_1.png" alt="" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-piH11afwlb8/VGgpjWBfBiI/AAAAAAAADnw/VIOZHE2mT9k/s1600/Belajar_Matematika_Android_1.png" alt="" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">

@@ -4,7 +4,7 @@ title: 'Download Kaspersky 2012 Lengkap dengan Serial Number [Free Trial untuk 3
 date: 2011-09-18T18:51:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=747
+guid: https://nesaci.com/?p=747
 permalink: /download-kaspersky-2012-lengkap-dengan-serial-number-free-trial-untuk-3-bulan/
 categories:
   - Catatan Harian
@@ -23,5 +23,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Sebuah kabar baik, kini Anda bisa mencoba Kaspersky Anti-Virus 2012 selama tiga bulan. Cukup Anda download Kaspersky Anti-Virus 2012 dari Website Resmi Kaspersky yakni<strong> http://www.kaspersky.com/kav_latest_versions</strong> selanjutnya Install Antivirus tersebut di Laptop atau Netbook dan masukan Serial Number berikut ini : <strong>NUS4T-GKF2R-17SCB-4CKPN</strong> sehingga Kaspersky Anti-Virus 2012 akan aktif selama 3 bulan.
+  Sebuah kabar baik, kini Anda bisa mencoba Kaspersky Anti-Virus 2012 selama tiga bulan. Cukup Anda download Kaspersky Anti-Virus 2012 dari Website Resmi Kaspersky yakni<strong> https://www.kaspersky.com/kav_latest_versions</strong> selanjutnya Install Antivirus tersebut di Laptop atau Netbook dan masukan Serial Number berikut ini : <strong>NUS4T-GKF2R-17SCB-4CKPN</strong> sehingga Kaspersky Anti-Virus 2012 akan aktif selama 3 bulan.
 </p>

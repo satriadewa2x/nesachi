@@ -4,7 +4,7 @@ title: Aplikasi Office untuk iPad
 date: 2011-11-02T10:14:00+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=769
+guid: https://nesaci.com/?p=769
 permalink: /aplikasi-office-untuk-ipad/
 categories:
   - iPad

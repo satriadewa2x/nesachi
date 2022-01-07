@@ -4,7 +4,7 @@ title: Isi Makalah tentang Geografi Kawasan Amerika
 date: 2011-03-12T07:53:58+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=599
+guid: https://nesaci.com/?p=599
 permalink: /isi-makalah-tentang-geografi-kawasan-amerika/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: 'Game Angry Birds Seasons Terbaru : Back to School'
 date: 2012-08-26T12:38:50+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=892
+guid: https://nesaci.com/?p=892
 permalink: /game-angry-birds-seasons-terbaru-back-to-school/
 categories:
   - Android
@@ -24,7 +24,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img loading="lazy" class="aligncenter" title="Angry Birds Season" src="http://1.bp.blogspot.com/-v8WdqPz7y1g/UDm1bnsvr7I/AAAAAAAAAEQ/PEySz38ULIE/s1600/Angry-Birds-Seasons-Back-to-School.jpg" alt="" width="564" height="276" />
+  <img loading="lazy" class="aligncenter" title="Angry Birds Season" src="https://1.bp.blogspot.com/-v8WdqPz7y1g/UDm1bnsvr7I/AAAAAAAAAEQ/PEySz38ULIE/s1600/Angry-Birds-Seasons-Back-to-School.jpg" alt="" width="564" height="276" />
 </p>
 
 <p style="text-align: justify;">

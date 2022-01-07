@@ -4,7 +4,7 @@ title: Dropbox for Blackberry is Upgraded to version 1.0.39.1
 date: 2011-01-29T07:51:53+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=537
+guid: https://nesaci.com/?p=537
 permalink: /dropbox-for-blackberry-is-upgraded-to-version-1-0-39-1/
 categories:
   - Blackberry

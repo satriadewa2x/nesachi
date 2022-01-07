@@ -4,7 +4,7 @@ title: Objek Wisata Panjalu
 date: 2011-02-10T23:01:47+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1306
+guid: https://nesaci.com/?p=1306
 permalink: /objek-wisata-panjalu/
 categories:
   - Makalah

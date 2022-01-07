@@ -4,7 +4,7 @@ title: Kode Curang Angry Birds Space Terbaru 2012
 date: 2012-04-06T09:41:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=827
+guid: https://nesaci.com/?p=827
 permalink: /cheat-code-angry-birds-space-terbaru-2012/
 categories:
   - iPad
@@ -27,7 +27,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" title="Angry Birds Space" src="http://4.bp.blogspot.com/-gKDiUbqbNBI/T35U-h0EcXI/AAAAAAAAACY/KgXGO3NFwds/s1600/download_angry_birds_space.jpg" alt="" width="500" height="340" />
+  <img loading="lazy" class="aligncenter" title="Angry Birds Space" src="https://4.bp.blogspot.com/-gKDiUbqbNBI/T35U-h0EcXI/AAAAAAAAACY/KgXGO3NFwds/s1600/download_angry_birds_space.jpg" alt="" width="500" height="340" />
 </p>
 
 <p style="text-align: justify;">
@@ -35,5 +35,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Silahkan simak <a href="http://www.putrifauziah.com/2012/04/kode-cheat-angry-birds-space-for-iphone.html"><strong>Cheat Code Angry Birds Space Terbaru 2012</strong></a> untuk lebih mengetahui tentang tips dan trik serta cheat code Angry Birds Terbaru.
+  Silahkan simak <a href="https://www.putrifauziah.com/2012/04/kode-cheat-angry-birds-space-for-iphone.html"><strong>Cheat Code Angry Birds Space Terbaru 2012</strong></a> untuk lebih mengetahui tentang tips dan trik serta cheat code Angry Birds Terbaru.
 </p>

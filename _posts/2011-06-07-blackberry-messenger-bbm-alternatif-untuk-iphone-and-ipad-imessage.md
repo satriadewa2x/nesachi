@@ -4,7 +4,7 @@ title: 'Blackberry Messenger (BBM) Alternatif untuk iPhone and iPad : iMessage'
 date: 2011-06-07T10:12:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=671
+guid: https://nesaci.com/?p=671
 permalink: /blackberry-messenger-bbm-alternatif-untuk-iphone-and-ipad-imessage/
 categories:
   - Android

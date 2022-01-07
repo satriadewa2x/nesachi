@@ -4,7 +4,7 @@ title: Sejarah Lengkap Kerajaan Majapahit
 date: 2011-03-11T08:04:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=595
+guid: https://nesaci.com/?p=595
 permalink: /sejarah-lengkap-kerajaan-majapahit/
 categories:
   - Catatan Harian

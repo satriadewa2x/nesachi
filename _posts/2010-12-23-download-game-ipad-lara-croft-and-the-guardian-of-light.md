@@ -4,7 +4,7 @@ title: 'Download Game iPad: Lara Croft and The Guardian of Light'
 date: 2010-12-23T08:07:34+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=462
+guid: https://nesaci.com/?p=462
 permalink: /download-game-ipad-lara-croft-and-the-guardian-of-light/
 categories:
   - iPad

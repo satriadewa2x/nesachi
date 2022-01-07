@@ -4,7 +4,7 @@ title: Contoh Proposal Pembangunan Mesjid atau Madrasah
 date: 2011-03-09T11:58:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1302
+guid: https://nesaci.com/?p=1302
 permalink: /contoh-proposal-pembangunan-mesjid-atau-madrasah/
 categories:
   - Makalah

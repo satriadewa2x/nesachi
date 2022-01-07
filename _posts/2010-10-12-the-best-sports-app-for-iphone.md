@@ -4,7 +4,7 @@ title: The Best Sports App for iPhone?
 date: 2010-10-12T13:12:32+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=316
+guid: https://nesaci.com/?p=316
 permalink: /the-best-sports-app-for-iphone/
 categories:
   - iPhone

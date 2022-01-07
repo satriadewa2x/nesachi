@@ -4,7 +4,7 @@ title: The Best AntiVirus For Android
 date: 2011-01-14T07:31:25+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=505
+guid: https://nesaci.com/?p=505
 permalink: /the-best-antivirus-for-android/
 categories:
   - Android

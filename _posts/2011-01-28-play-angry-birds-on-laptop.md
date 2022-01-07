@@ -4,7 +4,7 @@ title: Play Angry Birds on Laptop
 date: 2011-01-28T07:26:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=535
+guid: https://nesaci.com/?p=535
 permalink: /play-angry-birds-on-laptop/
 categories:
   - Catatan Gadget
@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Well, you&#8217;re still there to read quest&#8217;inutile article with the typical face stupid? Go and buy it on site AppUp at http://www.appup.com/applications/applications-Angry+Birds
+  Well, you&#8217;re still there to read quest&#8217;inutile article with the typical face stupid? Go and buy it on site AppUp at https://www.appup.com/applications/applications-Angry+Birds
 </p>
 
 <p style="text-align: justify;">

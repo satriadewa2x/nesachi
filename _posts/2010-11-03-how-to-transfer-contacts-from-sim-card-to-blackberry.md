@@ -4,7 +4,7 @@ title: How To Transfer Contacts from SIM Card to BlackBerry
 date: 2010-11-03T07:40:03+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=362
+guid: https://nesaci.com/?p=362
 permalink: /how-to-transfer-contacts-from-sim-card-to-blackberry/
 categories:
   - Blackberry

@@ -4,7 +4,7 @@ title: 'iPhone Game Terbaru: Sonic the Hedgehog 4 Episode 1'
 date: 2010-12-20T07:35:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=455
+guid: https://nesaci.com/?p=455
 permalink: /iphone-game-terbaru-sonic-the-hedgehog-4-episode-1/
 categories:
   - iPhone

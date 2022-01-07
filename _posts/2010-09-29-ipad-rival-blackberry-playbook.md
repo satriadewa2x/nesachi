@@ -4,7 +4,7 @@ title: 'IPad rival: Blackberry Playbook'
 date: 2010-09-29T08:08:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=261
+guid: https://nesaci.com/?p=261
 permalink: /ipad-rival-blackberry-playbook/
 categories:
   - iPhone

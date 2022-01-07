@@ -4,7 +4,7 @@ title: Music Streaming on your iPhone Audiogalaxy
 date: 2010-10-20T07:11:31+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=341
+guid: https://nesaci.com/?p=341
 permalink: /music-streaming-on-your-iphone-audiogalaxy/
 categories:
   - iPhone

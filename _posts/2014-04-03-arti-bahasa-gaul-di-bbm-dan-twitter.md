@@ -4,7 +4,7 @@ title: Arti Bahasa Gaul di BBM dan Twitter
 date: 2014-04-03T16:41:35+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1008
+guid: https://nesaci.com/?p=1008
 permalink: /arti-bahasa-gaul-di-bbm-dan-twitter/
 categories:
   - Android
@@ -20,7 +20,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" alt="" src="http://akucintakaudandia.files.wordpress.com/2014/04/kamus_250_1.png" width="250" height="250" />
+  <img loading="lazy" class="aligncenter" alt="" src="https://akucintakaudandia.files.wordpress.com/2014/04/kamus_250_1.png" width="250" height="250" />
 </p>
 
 <p style="text-align: justify;">

@@ -4,7 +4,7 @@ title: Twitter atau Facebook? Mana yang Lebih Baik dan Mana yang Harus dipilih?
 date: 2011-01-12T07:58:08+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=497
+guid: https://nesaci.com/?p=497
 permalink: /twitter-atau-facebook-mana-yang-lebih-baik-dan-mana-yang-harus-dipilih/
 categories:
   - Facebook

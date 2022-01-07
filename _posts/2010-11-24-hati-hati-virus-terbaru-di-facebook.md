@@ -4,7 +4,7 @@ title: Hati-Hati Virus Terbaru di Facebook
 date: 2010-11-24T18:42:19+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=386
+guid: https://nesaci.com/?p=386
 permalink: /hati-hati-virus-terbaru-di-facebook/
 categories:
   - Catatan Harian

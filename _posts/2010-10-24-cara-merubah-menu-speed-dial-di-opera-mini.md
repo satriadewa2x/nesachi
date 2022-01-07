@@ -4,7 +4,7 @@ title: Cara Merubah Menu Speed Dial di Opera Mini
 date: 2010-10-24T10:27:42+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=349
+guid: https://nesaci.com/?p=349
 permalink: /cara-merubah-menu-speed-dial-di-opera-mini/
 categories:
   - Android

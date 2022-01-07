@@ -4,7 +4,7 @@ title: Foursquare Official Version for Symbian
 date: 2010-09-30T08:04:45+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=265
+guid: https://nesaci.com/?p=265
 permalink: /foursquare-official-version-for-symbian/
 categories:
   - Nokia

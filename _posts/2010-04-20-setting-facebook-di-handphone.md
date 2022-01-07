@@ -4,7 +4,7 @@ title: Setting Facebook di Handphone
 date: 2010-04-20T07:58:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=90
+guid: https://nesaci.com/?p=90
 permalink: /setting-facebook-di-handphone/
 categories:
   - Tips dan Trick
@@ -19,5 +19,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Setelah Handphone kamu benar-benar bisa terhubung ke Internet dan bisa mengakses Web dengan lancar, untuk mengakses Facebook di Handphone cukup masukan alamat <strong>http://m.facebook.com</strong> di address browser handphone (Opera Mini), dan Loginlah sesuai dengan data akun yang kamu miliki. Cukup mudah bukan?
+  Setelah Handphone kamu benar-benar bisa terhubung ke Internet dan bisa mengakses Web dengan lancar, untuk mengakses Facebook di Handphone cukup masukan alamat <strong>https://m.facebook.com</strong> di address browser handphone (Opera Mini), dan Loginlah sesuai dengan data akun yang kamu miliki. Cukup mudah bukan?
 </p>

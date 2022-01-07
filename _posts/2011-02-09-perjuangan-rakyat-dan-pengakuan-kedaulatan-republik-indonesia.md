@@ -4,7 +4,7 @@ title: 'Perjuangan Rakyat dan Pengakuan  Kedaulatan Republik Indonesia'
 date: 2011-02-09T02:17:06+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1262
+guid: https://nesaci.com/?p=1262
 permalink: /perjuangan-rakyat-dan-pengakuan-kedaulatan-republik-indonesia/
 categories:
   - Makalah

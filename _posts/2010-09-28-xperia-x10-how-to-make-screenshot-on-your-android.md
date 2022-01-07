@@ -4,7 +4,7 @@ title: 'xPeria X10: How to Make Screenshot on your Android'
 date: 2010-09-28T16:19:30+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=259
+guid: https://nesaci.com/?p=259
 permalink: /xperia-x10-how-to-make-screenshot-on-your-android/
 categories:
   - Android

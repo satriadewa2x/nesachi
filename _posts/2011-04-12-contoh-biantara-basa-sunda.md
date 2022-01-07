@@ -4,7 +4,7 @@ title: Contoh Biantara Basa Sunda
 date: 2011-04-12T18:46:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=636
+guid: https://nesaci.com/?p=636
 permalink: /contoh-biantara-basa-sunda/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Contoh Pidato Bahasa Sunda untuk Lomba Biantara
 date: 2013-03-23T12:22:40+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=951
+guid: https://nesaci.com/?p=951
 permalink: /contoh-pidato-bahasa-sunda-untuk-lomba-biantara/
 categories:
   - Catatan Harian

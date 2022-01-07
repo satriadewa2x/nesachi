@@ -4,7 +4,7 @@ title: The Application of Youtube for Android Updated
 date: 2010-10-21T07:49:10+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=343
+guid: https://nesaci.com/?p=343
 permalink: /the-application-of-youtube-for-android-updated/
 categories:
   - Android

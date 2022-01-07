@@ -4,7 +4,7 @@ title: Perbedaan Facebook dan Twitter (Twitter vs Facebook)
 date: 2010-03-16T11:38:30+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=40
+guid: https://nesaci.com/?p=40
 permalink: /perbedaan-facebook-dan-twitter-twitter-vs-facebook/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: 'Sweet &#038; Spicy Love for Android: The Application For All Lovers!'
 date: 2011-02-13T08:36:57+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=561
+guid: https://nesaci.com/?p=561
 permalink: /sweet-spicy-love-for-android-the-application-for-all-lovers/
 categories:
   - Android

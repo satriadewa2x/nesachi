@@ -4,7 +4,7 @@ title: 'Easy Way  to Edit Photo on iPhone Photo Fixer'
 date: 2010-10-19T07:56:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=339
+guid: https://nesaci.com/?p=339
 permalink: /easy-way-to-edit-photo-on-iphone-photo-fixer/
 categories:
   - iPhone

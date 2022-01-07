@@ -4,7 +4,7 @@ title: 'Command &#038; Conquer Red Alert for iPhone and iPod Touch'
 date: 2010-12-15T07:25:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=438
+guid: https://nesaci.com/?p=438
 permalink: /command-conquer-red-alert-for-iphone-and-ipod-touch/
 categories:
   - iPhone

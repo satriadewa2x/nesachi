@@ -4,7 +4,7 @@ title: Cara Download Google Books
 date: 2011-11-27T13:25:24+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=783
+guid: https://nesaci.com/?p=783
 permalink: /cara-download-google-books/
 categories:
   - Catatan Harian

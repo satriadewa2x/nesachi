@@ -4,7 +4,7 @@ title: 'iPhone Game: Zombie Highway and Rotten City for iPhone'
 date: 2010-12-08T07:50:29+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=421
+guid: https://nesaci.com/?p=421
 permalink: /iphone-game-zombie-highway-and-rotten-city-for-iphone/
 categories:
   - iPhone

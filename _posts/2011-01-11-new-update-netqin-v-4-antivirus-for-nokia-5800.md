@@ -4,7 +4,7 @@ title: New Update NetQin v.4 Antivirus for Nokia 5800
 date: 2011-01-11T07:49:36+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=494
+guid: https://nesaci.com/?p=494
 permalink: /new-update-netqin-v-4-antivirus-for-nokia-5800/
 categories:
   - Nokia

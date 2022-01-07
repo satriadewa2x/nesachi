@@ -4,7 +4,7 @@ title: Download Office App for Nokia E7
 date: 2010-11-12T07:11:07+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=374
+guid: https://nesaci.com/?p=374
 permalink: /download-office-app-for-nokia-e7/
 categories:
   - Nokia

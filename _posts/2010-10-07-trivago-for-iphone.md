@@ -4,7 +4,7 @@ title: Trivago for iPhone
 date: 2010-10-07T19:14:42+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=301
+guid: https://nesaci.com/?p=301
 permalink: /trivago-for-iphone/
 categories:
   - iPhone

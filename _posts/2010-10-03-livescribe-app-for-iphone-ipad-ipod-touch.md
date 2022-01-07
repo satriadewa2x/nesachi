@@ -4,7 +4,7 @@ title: 'Livescribe App for iPhone, iPad &#038; iPod Touch'
 date: 2010-10-03T17:08:06+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=281
+guid: https://nesaci.com/?p=281
 permalink: /livescribe-app-for-iphone-ipad-ipod-touch/
 categories:
   - iPad

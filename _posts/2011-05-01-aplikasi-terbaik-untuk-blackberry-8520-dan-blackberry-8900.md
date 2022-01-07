@@ -4,7 +4,7 @@ title: Aplikasi Terbaik untuk Blackberry 8520 dan Blackberry 8900
 date: 2011-05-01T11:46:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=647
+guid: https://nesaci.com/?p=647
 permalink: /aplikasi-terbaik-untuk-blackberry-8520-dan-blackberry-8900/
 categories:
   - Blackberry

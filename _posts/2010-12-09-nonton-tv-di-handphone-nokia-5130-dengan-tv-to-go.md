@@ -4,7 +4,7 @@ title: Nonton TV di Handphone Nokia 5130 dengan TV to Go
 date: 2010-12-09T07:47:55+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=423
+guid: https://nesaci.com/?p=423
 permalink: /nonton-tv-di-handphone-nokia-5130-dengan-tv-to-go/
 categories:
   - Nokia

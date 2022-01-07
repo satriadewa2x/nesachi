@@ -4,7 +4,7 @@ title: Cara Reset iPod Nano
 date: 2011-04-08T08:01:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=633
+guid: https://nesaci.com/?p=633
 permalink: /cara-reset-ipod-nano/
 categories:
   - Tips dan Trick

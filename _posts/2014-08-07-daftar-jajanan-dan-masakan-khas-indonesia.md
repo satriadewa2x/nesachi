@@ -4,7 +4,7 @@ title: Daftar Jajanan dan Masakan Khas Indonesia
 date: 2014-08-07T10:32:53+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1026
+guid: https://nesaci.com/?p=1026
 permalink: /daftar-jajanan-dan-masakan-khas-indonesia/
 categories:
   - Android
@@ -19,7 +19,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-tAIDgz89CgQ/U-LyJDo4kBI/AAAAAAAADaU/CNjRF_lYmlU/s1600/kue-pancong.jpg" alt="" width="320" height="308" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-tAIDgz89CgQ/U-LyJDo4kBI/AAAAAAAADaU/CNjRF_lYmlU/s1600/kue-pancong.jpg" alt="" width="320" height="308" />
 </p>
 
 <p style="text-align: justify;">
@@ -27,7 +27,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-hcWPlMiHSVU/U-Lyyv_MKVI/AAAAAAAADas/2ZW9KoCJ8b4/s1600/klepon.jpg" alt="" width="400" height="300" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-hcWPlMiHSVU/U-Lyyv_MKVI/AAAAAAAADas/2ZW9KoCJ8b4/s1600/klepon.jpg" alt="" width="400" height="300" />
 </p>
 
 <p style="text-align: justify;">
@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://1.bp.blogspot.com/-U3ivLemcSRQ/U-LyTRRry6I/AAAAAAAADag/_OssH3nLV0M/s1600/tebak_kuliner_6.png" alt="" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://1.bp.blogspot.com/-U3ivLemcSRQ/U-LyTRRry6I/AAAAAAAADag/_OssH3nLV0M/s1600/tebak_kuliner_6.png" alt="" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">
@@ -47,7 +47,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-3tOikbtW9bY/U-LyS3lTtSI/AAAAAAAADac/4M9Eb8qtAHM/s1600/tebak_kuliner_2.png" alt="" width="480" height="800" />
+  <img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-3tOikbtW9bY/U-LyS3lTtSI/AAAAAAAADac/4M9Eb8qtAHM/s1600/tebak_kuliner_2.png" alt="" width="480" height="800" />
 </p>
 
 <p style="text-align: justify;">
@@ -55,5 +55,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a href="https://play.google.com/store/apps/details?id=nana.tebak.kuliner"><img loading="lazy" class="aligncenter" src="http://4.bp.blogspot.com/-X7aa4koAwW0/U-LzClkEB7I/AAAAAAAADa0/P0Kr68ZesU0/s1600/download_play_store.png" alt="" width="320" height="95" /></a>
+  <a href="https://play.google.com/store/apps/details?id=nana.tebak.kuliner"><img loading="lazy" class="aligncenter" src="https://4.bp.blogspot.com/-X7aa4koAwW0/U-LzClkEB7I/AAAAAAAADa0/P0Kr68ZesU0/s1600/download_play_store.png" alt="" width="320" height="95" /></a>
 </p>

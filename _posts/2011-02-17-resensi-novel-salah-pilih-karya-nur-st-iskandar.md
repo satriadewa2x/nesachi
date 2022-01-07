@@ -4,7 +4,7 @@ title: Resensi Novel Salah Pilih Karya Nur St. Iskandar
 date: 2011-02-17T13:00:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=567
+guid: https://nesaci.com/?p=567
 permalink: /resensi-novel-salah-pilih-karya-nur-st-iskandar/
 categories:
   - Catatan Harian

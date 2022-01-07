@@ -4,7 +4,7 @@ title: Game di Windows 7
 date: 2010-04-30T08:07:14+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=116
+guid: https://nesaci.com/?p=116
 permalink: /game-di-windows-7/
 categories:
   - Tips dan Trick

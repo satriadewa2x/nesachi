@@ -4,7 +4,7 @@ title: Pengertian Asesmen
 date: 2009-12-04T22:14:13+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1260
+guid: https://nesaci.com/?p=1260
 permalink: /pengertian-asesmen/
 categories:
   - Makalah

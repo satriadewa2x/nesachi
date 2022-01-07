@@ -4,7 +4,7 @@ title: Download Youtube Mobile App Versi 2.4 untuk Nonton Video Youtube Langsung
 date: 2010-03-18T03:00:20+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=47
+guid: https://nesaci.com/?p=47
 permalink: /download-youtube-mobile-app-versi-2-4-untuk-nonton-video-youtube-langsung-dari-handphone/
 categories:
   - Catatan Harian
@@ -22,5 +22,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download Video Youtube di Handphone" rel="nofollow" href="http://m.youtube.com/app" target="_blank"><strong>Download Youtube Mobile App Versi 2.4</strong></a>
+  <a title="Download Video Youtube di Handphone" rel="nofollow" href="https://m.youtube.com/app" target="_blank"><strong>Download Youtube Mobile App Versi 2.4</strong></a>
 </p>

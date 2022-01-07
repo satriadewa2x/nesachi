@@ -4,7 +4,7 @@ title: Reactable for iPad, iPhone and iPod Touch
 date: 2010-10-15T12:35:23+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=331
+guid: https://nesaci.com/?p=331
 permalink: /reactable-for-ipad-iphone-and-ipod-touch/
 categories:
   - iPad

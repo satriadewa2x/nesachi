@@ -4,7 +4,7 @@ title: Free Download TwimGo for Nokia N8
 date: 2011-01-08T09:10:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=487
+guid: https://nesaci.com/?p=487
 permalink: /free-download-twimgo-for-nokia-n8/
 categories:
   - Nokia

@@ -4,7 +4,7 @@ title: Cara Install Windows 7 di Netbook
 date: 2010-05-19T09:31:40+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=131
+guid: https://nesaci.com/?p=131
 permalink: /cara-install-windows-7-di-netbook/
 categories:
   - Tips dan Trick

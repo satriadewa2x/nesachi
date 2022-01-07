@@ -4,7 +4,7 @@ title: BlackBerry Jakarta – BB Murah Tanpa Harus Berlangganan Paket Blackberry
 date: 2014-02-26T18:07:15+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1002
+guid: https://nesaci.com/?p=1002
 permalink: /blackberry-jakarta-bb-murah-tanpa-harus-berlangganan-paket-blackberry/
 categories:
   - Blackberry
@@ -20,7 +20,7 @@ tags:
   Hadir dengan BlackBerry OS 10.2.1, itu artinya kita bisa menikmati fitur seperti BBM tanpa harus berlangganan paket Blackberry, cukup berlangganan paket internet biasa. Selain itu Blackberry Jakarta juga kental dengan sentuhan yang Indonesia banget dan dirancang untuk pelanggan dengan kustom aplikasi dan konten lokal.
 </p>
 
-<img loading="lazy" class="aligncenter" alt="" src="http://2.bp.blogspot.com/-hk7-LvN-CV8/Uw3KKArvzrI/AAAAAAAACus/QRSCPYlWOOw/s1600/blackberry_z3_jakarta_harga.png" width="300" height="446" /> 
+<img loading="lazy" class="aligncenter" alt="" src="https://2.bp.blogspot.com/-hk7-LvN-CV8/Uw3KKArvzrI/AAAAAAAACus/QRSCPYlWOOw/s1600/blackberry_z3_jakarta_harga.png" width="300" height="446" /> 
 
 <p style="text-align: justify;">
   Untuk Spesifikasi lengkap dari Blackberry Z3 diantaranya adalah seperti dibawah ini :

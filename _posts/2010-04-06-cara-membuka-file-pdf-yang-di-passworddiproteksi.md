@@ -4,7 +4,7 @@ title: Cara Membuka File PDF Yang di Password/Diproteksi
 date: 2010-04-06T23:47:02+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=54
+guid: https://nesaci.com/?p=54
 permalink: /cara-membuka-file-pdf-yang-di-passworddiproteksi/
 categories:
   - Tips dan Trick
@@ -21,5 +21,5 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  <a title="Download PDF Unlocker" rel="Nofollow" href="http://www.brothersoft.com/free-pdf-unlocker-download-206381.html"><strong>Download PDF Unlocker</strong></a>
+  <a title="Download PDF Unlocker" rel="Nofollow" href="https://www.brothersoft.com/free-pdf-unlocker-download-206381.html"><strong>Download PDF Unlocker</strong></a>
 </p>

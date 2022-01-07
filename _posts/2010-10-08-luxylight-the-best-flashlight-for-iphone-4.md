@@ -4,7 +4,7 @@ title: Luxylight, The Best Flashlight for iPhone 4
 date: 2010-10-08T18:22:21+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=305
+guid: https://nesaci.com/?p=305
 permalink: /luxylight-the-best-flashlight-for-iphone-4/
 categories:
   - iPhone

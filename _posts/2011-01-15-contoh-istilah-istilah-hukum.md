@@ -4,7 +4,7 @@ title: Contoh Istilah-istilah Hukum
 date: 2011-01-15T07:57:22+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=507
+guid: https://nesaci.com/?p=507
 permalink: /contoh-istilah-istilah-hukum/
 categories:
   - Catatan Harian

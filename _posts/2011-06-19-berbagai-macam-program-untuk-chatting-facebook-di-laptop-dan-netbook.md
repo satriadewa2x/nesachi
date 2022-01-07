@@ -4,7 +4,7 @@ title: Berbagai Macam Program untuk Chatting Facebook di Laptop dan Netbook
 date: 2011-06-19T11:00:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=688
+guid: https://nesaci.com/?p=688
 permalink: /berbagai-macam-program-untuk-chatting-facebook-di-laptop-dan-netbook/
 categories:
   - Catatan Harian

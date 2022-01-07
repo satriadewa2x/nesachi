@@ -4,7 +4,7 @@ title: Pengertian Cerpen dan Ciri-Ciri Cerita Pendek
 date: 2011-01-18T22:33:43+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1278
+guid: https://nesaci.com/?p=1278
 permalink: /pengertian-cerpen-dan-ciri-ciri-cerita-pendek/
 categories:
   - Makalah

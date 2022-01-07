@@ -4,7 +4,7 @@ title: Contoh Kajian Pustaka untuk PTK IPA SD Kelas 1
 date: 2015-04-02T21:06:33+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=1088
+guid: https://nesaci.com/?p=1088
 permalink: /contoh-kajian-pustaka-untuk-ptk-ipa-sd-kelas-1/
 categories:
   - Makalah

@@ -4,7 +4,7 @@ title: Apakah iPad itu? Apa kelebihan dan Kekurangan iPad?
 date: 2010-04-08T07:30:11+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=57
+guid: https://nesaci.com/?p=57
 permalink: /apakah-ipad-itu-apa-kelebihan-dan-kekurangan-ipad/
 categories:
   - Catatan Gadget

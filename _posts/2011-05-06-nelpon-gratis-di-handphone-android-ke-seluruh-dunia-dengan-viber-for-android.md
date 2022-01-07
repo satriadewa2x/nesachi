@@ -4,7 +4,7 @@ title: Nelpon Gratis di Handphone Android ke Seluruh Dunia dengan Viber For Andr
 date: 2011-05-06T08:23:51+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=650
+guid: https://nesaci.com/?p=650
 permalink: /nelpon-gratis-di-handphone-android-ke-seluruh-dunia-dengan-viber-for-android/
 categories:
   - Android

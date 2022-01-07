@@ -4,7 +4,7 @@ title: What is Anime?
 date: 2010-08-16T10:09:52+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=196
+guid: https://nesaci.com/?p=196
 permalink: /what-is-anime/
 categories:
   - Catatan Harian

@@ -4,7 +4,7 @@ title: Cara Mengganti Wallpaper di Windows 7 Starter Edition
 date: 2010-08-25T23:22:18+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=215
+guid: https://nesaci.com/?p=215
 permalink: /cara-mengganti-wallpaper-di-windows-7-starter-edition/
 categories:
   - Tips dan Trick
@@ -20,7 +20,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Namun tenang saja dengan sebuah program bernama Oceanis kamu bisa mengganti Wallpaper di Windows 7 Starter Edition kamu. Kamu bisa mendapatkan Oceanis dan cara menggunakannya di hxxp://www.sevenforums.com/tutorials/47294-desktop-background-change-windows-7-starter.html atau bisa juga menggunakan sebuah Tool dari HP yang bernama <a title="Cara Mengganti Tema Windows 7 Starter Edition" rel="nofollow" href="http://h10025.www1.hp.com/ewfrf/wc/softwareDownloadIndex?softwareitem=ob-77480-1&lc=en&dlc=en&cc=us&product=4016176&os=4062&lang=en" target="_blank"><strong>Stardock MyColors Notebook Desktop Themes</strong></a> untuk Windows 7 Starter Edition (32-bit), Microsoft Windows 7 (32-bit), Microsoft Windows 7 Home Basic (32-bit), dan Microsoft Windows 7 Home Premium (32-bit).
+  Namun tenang saja dengan sebuah program bernama Oceanis kamu bisa mengganti Wallpaper di Windows 7 Starter Edition kamu. Kamu bisa mendapatkan Oceanis dan cara menggunakannya di hxxp://www.sevenforums.com/tutorials/47294-desktop-background-change-windows-7-starter.html atau bisa juga menggunakan sebuah Tool dari HP yang bernama <a title="Cara Mengganti Tema Windows 7 Starter Edition" rel="nofollow" href="https://h10025.www1.hp.com/ewfrf/wc/softwareDownloadIndex?softwareitem=ob-77480-1&lc=en&dlc=en&cc=us&product=4016176&os=4062&lang=en" target="_blank"><strong>Stardock MyColors Notebook Desktop Themes</strong></a> untuk Windows 7 Starter Edition (32-bit), Microsoft Windows 7 (32-bit), Microsoft Windows 7 Home Basic (32-bit), dan Microsoft Windows 7 Home Premium (32-bit).
 </p>
 
 <p style="text-align: justify;">

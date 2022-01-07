@@ -4,7 +4,7 @@ title: The Latest Version of Fruit Ninja is Dedicated to the Integration with Ga
 date: 2010-09-30T14:13:44+00:00
 author: Nesaci
 layout: post
-guid: http://nesaci.com/?p=267
+guid: https://nesaci.com/?p=267
 permalink: /the-latest-version-of-fruit-ninja-is-dedicated-to-the-integration-with-game-center/
 categories:
   - iPhone
